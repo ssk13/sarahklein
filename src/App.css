@@ -20,10 +20,15 @@ ul.header li a {
     padding: 20px;
     display: inline-block;
 }
+a {
+    color: rgb(235, 131, 40);
+}
+a:visited {
+    color: rgb(215, 111, 20);
+}
 .content {
     background-color: #FFF;
     padding: 20px;
-    margin: 2%;
 }
 .content h2 {
     padding: 0;
