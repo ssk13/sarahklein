@@ -1,0 +1,17 @@
+img {
+    display: inline-block;
+    margin: 0 20px 0 20px;
+}
+
+.caption {
+    height: 36px;
+}
+
+.caption span {
+    border-bottom: 1px solid black
+}
+
+.image {
+    display: inline-block;
+    cursor: pointer;
+}
