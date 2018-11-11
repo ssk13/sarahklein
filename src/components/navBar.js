@@ -8,7 +8,7 @@ class NavBar extends Component {
         super(props);
 
         this.state = {
-            activePage: 'home'
+            activePage: 'developer'
         }
     }
 
