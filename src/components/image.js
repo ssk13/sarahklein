@@ -18,9 +18,17 @@ class Image extends Component {
         return 20 * size;
     }
 
+    getImageStyle() {
+        if (!this.props.float) {
+            return;
+        }
+
+        return {float: this.props.float}
+    }
+
     render() {
         return (
-            <div className='image'>
+            <div className='image' style={this.getImageStyle()}>
                 <img
                     src={this.props.imgSrc}
                     alt={this.props.altTxt}
