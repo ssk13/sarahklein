@@ -1,8 +1,35 @@
 import React, { Component } from 'react';
-import Image from '../components/image';
 import sarah from '../assets/sarah.JPG';
+import { getLast200Books } from '../clients/goodreads';
+import Book from '../components/book';
+import Image from '../components/image';
 
 class Developer extends Component {
+    constructor(props) {
+        super(props);
+
+        this.state = {
+            bookList: ''
+        }
+    }
+
+    async componentDidMount() {
+        var books = [];
+
+        getLast200Books().then(data => {
+            data.forEach(book => {
+                books.push(<Book imgSrc={book.book.image_url['#text']} altTxt={book.book.title['#text']} 
+                    title={book.book.title['#text']}
+                    author={book.book.authors.author.name['#text']}
+                    dateRead={book.read_at['#text']} />);
+            });
+            this.setState({
+                bookList: books
+            });
+            return books;
+        })
+    }
+
     render() {
         return (
             <div>
@@ -66,7 +93,9 @@ class Developer extends Component {
                                 Counterpoint In The Style Of Palestrina </a>
                         </li>
                     </ul>
-
+                
+                    <h3>What I've Read Lately</h3>
+                    {this.state.bookList}
                 </div>
 
             </div>
