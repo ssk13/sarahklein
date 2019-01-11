@@ -20,10 +20,23 @@ class Developer extends Component {
 
         getLast200Books().then(data => {
             data.forEach(book => {
+                var dateRead = book.read_at['#text'];
+                if (!dateRead) {
+                    dateRead = book.date_updated['#text'];
+                }
+                dateRead = dateRead.substring(0,10);
+
+                var title = book.book.title['#text'].substring(0,40);
+                if (title !== book.book.title['#text']) {
+                    title = title.concat('...')
+                }
+
                 books.push(<Book imgSrc={book.book.image_url['#text']} altTxt={book.book.title['#text']} 
-                    title={book.book.title['#text']}
+                    title={title}
                     author={book.book.authors.author.name['#text']}
-                    dateRead={book.read_at['#text']} />);
+                    dateRead={dateRead}
+                    key={book.book.isbn['#text']}
+                    />)
             });
             this.setState({
                 bookList: books
@@ -98,13 +111,15 @@ class Developer extends Component {
                 
                     <h3>What I've Read Lately</h3>
                     <table>
-                        <tr>
-                            <td className={'tableContainer'}>
-                                <div className={'booksContainer'}>
-                                    {this.state.bookList}
-                                </div>
-                            </td>
-                        </tr>
+                        <tbody>
+                            <tr>
+                                <td className={'tableContainer'}>
+                                    <div className={'booksContainer'}>
+                                        {this.state.bookList}
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody>
                     </table>
                 </div>
 

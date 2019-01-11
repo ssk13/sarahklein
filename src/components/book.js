@@ -14,10 +14,13 @@ class Book extends Component {
         return (
             <div className='book'>
                 <img src={this.props.imgSrc} alt={this.props.altTxt} />
-                 
-                <p>{this.props.title}</p>
-                <p>{this.props.author}</p>
-                <p>{this.props.dateRead}</p>
+
+                <div className='bookInfo'>
+                    <p>{this.props.title}</p>
+                    <p>{this.props.author}</p>
+                    <p className='dateRead'>{this.props.dateRead}</p>
+                </div>
+
             </div>
         );
     }
