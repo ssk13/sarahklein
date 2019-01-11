@@ -4,7 +4,7 @@ const apiKey = '05VzMTV0rAKoDt0jXZohg';
 const userId = '4901618';
 
 export function getLast200Books() {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=10&page=1';
+    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=200&page=1&sort=date_read&order=d';
     return (
         axios.get(url)
         .then(data => 

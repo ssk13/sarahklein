@@ -1,7 +1,12 @@
 .book {
     width: 200px;
+    height: 160px;
     float: left;
     position: relative;
+}
+
+.bookImage {
+    height: 150px;
 }
 
 .bookInfo {

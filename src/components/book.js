@@ -13,7 +13,7 @@ class Book extends Component {
     render() {
         return (
             <div className='book'>
-                <img src={this.props.imgSrc} alt={this.props.altTxt} />
+                <img className='bookImage' src={this.props.imgSrc} alt={this.props.altTxt} />
 
                 <div className='bookInfo'>
                     <p>{this.props.title}</p>
