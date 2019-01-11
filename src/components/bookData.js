@@ -1,21 +1,30 @@
 import React, { Component } from 'react';
-import { getLast200Books } from '../clients/goodreads';
+import { getAuthorInfo, getLast200Books } from '../clients/goodreads';
 import Book from '../components/book';
+import GenderData from './genderData';
 
+import './style/bookData.css';
 
 class BookData extends Component {
     constructor(props) {
         super(props);
 
         this.state = {
-            bookList: ''
-        }
+            bookList: '',
+            genderData: [
+                { title: 'Male', value: 1, color: '#E38627' },
+                { title: 'Female', value: 1, color: '#C13C37' },
+                { title: 'Unknown', value: 1, color: '#6A2135' },
+            ]        }
     }
 
     async componentDidMount() {
         var books = [];
 
-        getLast200Books().then(data => {
+        getLast200Books(this.props.userId).then(data => {
+            var maleCount = 1;
+            var femaleCount = 1;
+            var unknownCount = 1;
             data.forEach(book => {
                 var dateRead = book.read_at['#text'];
                 if (!dateRead) {
@@ -34,27 +43,56 @@ class BookData extends Component {
                     dateRead={dateRead}
                     key={book.book.isbn['#text']}
                     />)
+
+                var authorId = book.book.authors.author.id['#text'];
+                getAuthorInfo(authorId).then(authorData => {
+                    if (authorData.gender['#text'] === 'male') {
+                        maleCount += 1;
+                    }
+                    else if (authorData.gender['#text'] === 'female') {
+                        femaleCount += 1;
+                    }
+                    else {
+                        unknownCount += 1;
+                    }
+
+                    this.setState({
+                        genderData: [
+                            { title: 'Male', value: maleCount, color: '#E38627' },
+                            { title: 'Female', value: femaleCount, color: '#C13C37' },
+                            { title: 'Unknown', value: unknownCount, color: '#6A2135' },
+                        ]
+                    });
+                });
             });
+
             this.setState({
                 bookList: books
             });
+
             return books;
         })
     }
 
     render() {
         return (
-            <table>
-                <tbody>
-                    <tr>
-                        <td className={'tableContainer'}>
-                            <div className={'booksContainer'}>
-                                {this.state.bookList}
-                            </div>
-                        </td>
-                    </tr>
-                </tbody>
-        </table>
+            <div>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td className={'tableContainer'}>
+                                <div className={'booksContainer'}>
+                                    {this.state.bookList}
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                
+                <GenderData genderData={this.state.genderData} />
+
+            </div>
+
         );
     }
 }

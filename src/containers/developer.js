@@ -71,7 +71,7 @@ class Developer extends Component {
                     </ul>
                 
                     <h3>What I've Read Lately</h3>
-                    <BookData />
+                    <BookData userId = '4901618' />
                 </div>
 
             </div>

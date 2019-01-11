@@ -1,0 +1,13 @@
+.genderData, .genderData > div {
+    height: 200px;
+}
+
+.genderData {
+    position: relative;
+}
+
+.genderLabel {
+    margin-left: 40%;
+    position: absolute;
+    top: 50%;
+}
