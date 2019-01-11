@@ -1,0 +1,12 @@
+table {
+    table-layout:fixed;    
+}
+
+.tableContainer {
+    width:400px;
+    overflow:auto;
+}
+
+.booksContainer {
+    width:2000px;
+}

@@ -4,6 +4,8 @@ import { getLast200Books } from '../clients/goodreads';
 import Book from '../components/book';
 import Image from '../components/image';
 
+import './style/developer.css'
+
 class Developer extends Component {
     constructor(props) {
         super(props);
@@ -95,7 +97,15 @@ class Developer extends Component {
                     </ul>
                 
                     <h3>What I've Read Lately</h3>
-                    {this.state.bookList}
+                    <table>
+                        <tr>
+                            <td className={'tableContainer'}>
+                                <div className={'booksContainer'}>
+                                    {this.state.bookList}
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
 
             </div>

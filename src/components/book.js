@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import './style/image.css';
+import './style/book.css';
 
 class Book extends Component {
     constructor(props) {
@@ -12,7 +12,7 @@ class Book extends Component {
 
     render() {
         return (
-            <div>
+            <div className='book'>
                 <img src={this.props.imgSrc} alt={this.props.altTxt} />
                  
                 <p>{this.props.title}</p>
