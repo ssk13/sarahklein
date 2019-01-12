@@ -8,7 +8,7 @@ class GenderData extends Component {
         super(props);
 
         this.state = {
-            label: this.props.label
+            genderLabel: ''
         }
 
         this.onMouseOver = this.onMouseOver.bind(this);
@@ -16,21 +16,17 @@ class GenderData extends Component {
     }
 
     onMouseOver(e, d, i) {
-        const data = d.map((entry, index) => {
-            if(index === i) {
-                return entry['title'];
-            }
-            return '';
-        });
+        var title = d[i]['title'];
+        var value = d[i]['value'] / (d[0]['value'] + d[1]['value'] + d[2]['value']);
 
         this.setState({
-            label: data[0] ? data[0] : data[1] ? data[1] : data[2] ? data[2] : ''
+            genderLabel: title + ': ' + (value * 100).toString().substring(0,5) + '%'
         });
     }
 
     onMouseOut(e, d, i) {
         this.setState({
-            label: ''
+            genderLabel: ''
         });
     }
 
@@ -43,8 +39,8 @@ class GenderData extends Component {
                     lengthAngle={180}
                     onMouseOver={this.onMouseOver}
                     onMouseOut={this.onMouseOut}
-                />;
-                <p className='genderLabel'>{this.state.label}</p>
+                />
+                <p className='genderLabel'>{this.state.genderLabel}</p>
             </div>
         );
     }
