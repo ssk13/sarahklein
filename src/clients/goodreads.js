@@ -3,7 +3,7 @@ import axios from 'axios';
 const apiKey = '05VzMTV0rAKoDt0jXZohg';
 
 export function getLast200Books(userId) {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=200&page=1&sort=date_read&order=d';
+    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=200page=1&sort=date_read&order=d';
     return (
         axios.get(url)
         .then(data => 
@@ -25,6 +25,20 @@ export function getAuthorInfo(authorId) {
                 const parser = new DOMParser();
                 const xml = parser.parseFromString(data.data, 'text/xml');
                 return xmlToJson(xml).GoodreadsResponse.author;
+            })
+        .catch(err=>console.log(err))
+    );
+};
+
+export function getBookInfo(bookId) {
+    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/book/show?key=' + apiKey + '&id=' + bookId;
+    return (
+        axios.get(url)
+        .then(data => 
+            {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(data.data, 'text/xml');
+                return xmlToJson(xml).GoodreadsResponse.book;
             })
         .catch(err=>console.log(err))
     );

@@ -1,0 +1,16 @@
+.fictionData, .fictionData > div {
+    height: 200px;
+}
+
+.fictionData {
+    position: relative;
+}
+
+.fictionLabel {
+    visibility: hidden;
+    height: 2rem;
+}
+
+.fictionLabel.visible {
+    visibility: visible;
+}

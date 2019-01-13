@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
-import { getAuthorInfo, getLast200Books } from '../clients/goodreads';
+import { getAuthorInfo, getLast200Books, getBookInfo } from '../clients/goodreads';
 import { mapHometown } from '../clients/homeTownMap';
 import { getRandomColor } from '../clients/style';
 import Book from '../components/book';
+import FictionData from './fictionData';
 import GenderData from './genderData';
 import HometownData from './hometownData';
 
@@ -16,7 +17,8 @@ class BookData extends Component {
             bookList: '',
             genderData: [],
             hometownData: [],
-            hometownColors: []
+            hometownColors: [],
+            fictionData: []
         }
     }
 
@@ -24,9 +26,10 @@ class BookData extends Component {
         var books = [];
 
         getLast200Books(this.props.userId).then(data => {
-            var maleCount = 1;
-            var femaleCount = 1;
-            var unknownCount = 1;
+            var maleCount = 0;
+            var femaleCount = 0;
+            var fictionCount = 0;
+            var nonFictionCount = 0;
             var hometownDict = {};
 
             data.forEach(book => {
@@ -57,8 +60,7 @@ class BookData extends Component {
                         femaleCount += 1;
                     }
                     else {
-                        // TO-DO: send an e-mail with the value to map it properly
-                        unknownCount += 1;
+                        // TO-DO: send an e-mail
                     }
 
                     var homeTown = authorData.hometown['#text'];
@@ -103,11 +105,37 @@ class BookData extends Component {
                         genderData: [
                             { title: 'Male', value: maleCount, color: '#E38627' },
                             { title: 'Female', value: femaleCount, color: '#C13C37' },
-                            { title: 'Unknown', value: unknownCount, color: '#6A2135' },
                         ],
                         hometownData: hometownArray
                     });
                 });
+
+                var bookId = book.book.id['#text'];
+                getBookInfo(bookId).then(bookData => {
+                    var shelves = bookData.popular_shelves.shelf;
+                    var shelfAssigned = false;
+                    shelves.forEach(shelf => {
+                        if (shelf['@attributes']['name'] === 'non-fiction') {
+                            nonFictionCount += 1;
+                            shelfAssigned = true;
+                        }
+                        else if (shelf['@attributes']['name'] === 'fiction') {
+                            fictionCount += 1;
+                            shelfAssigned = true;
+                        }
+                    })
+
+                    if (!shelfAssigned) {
+                        // TO-DO: send-email
+                    }
+
+                    this.setState({
+                        fictionData: [
+                            { title: 'Fiction', value: fictionCount, color: '#E38627' },
+                            { title: 'Non-Fiction', value: nonFictionCount, color: '#C13C37' },
+                        ]
+                    });
+                })
             });
 
             this.setState({
@@ -134,6 +162,8 @@ class BookData extends Component {
                 </table>
                 
                 <GenderData genderData={this.state.genderData} />
+
+                <FictionData fictionData={this.state.fictionData} />
 
                 <HometownData hometownData={this.state.hometownData} />
 

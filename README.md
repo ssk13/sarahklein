@@ -9,6 +9,7 @@
 - Parameterize username
 - Export to new page
 - Send e-mails to me with unidentified info
+- get all books instead of last 200
 
 ## Possible Resources
 - https://openlibrary.org/authors/OL2678246A/Max_Barry
