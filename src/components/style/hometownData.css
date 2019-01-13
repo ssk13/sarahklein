@@ -1,16 +1,16 @@
-.genderData, .genderData > div {
+.hometownData, .hometownData > div {
     height: 200px;
 }
 
-.genderData {
+.hometownData {
     position: relative;
 }
 
-.genderLabel {
+.hometownLabel {
     visibility: hidden;
     height: 2rem;
 }
 
-.genderLabel.visible {
+.hometownLabel.visible {
     visibility: visible;
 }

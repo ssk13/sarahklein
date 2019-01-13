@@ -1,25 +1,25 @@
 import React, { Component } from 'react';
 import PieChart from 'react-minimal-pie-chart';
 
-import './style/genderData.css';
+import './style/hometownData.css';
 
-class GenderData extends Component {
+class HometownData extends Component {
     constructor(props) {
         super(props);
 
         this.state = {
-            genderLabel: ''
+            hometownLabel: ''
         }
 
         this.onMouseOver = this.onMouseOver.bind(this);
         this.onMouseOut = this.onMouseOut.bind(this);
     }
 
-    getGenderLabelClass() {
-        if (this.state.genderLabel) {
-            return 'genderLabel visible';
+    getHometownLabelClass() {
+        if (this.state.hometownLabel) {
+            return 'hometownLabel visible';
         }
-        return 'genderLabel';
+        return 'hometownLabel';
     }
 
     onMouseOver(e, d, i) {
@@ -29,27 +29,27 @@ class GenderData extends Component {
         for (var j = 0; j < d.length; ++j) {
             total += d[j]['value'];
         }
-
+    
         var value = d[i]['value'] / total;
 
         this.setState({
-            genderLabel: title + ': ' + (value * 100).toString().substring(0,5) + '%'
+            hometownLabel: title + ': ' + (value * 100).toString().substring(0,5) + '%'
         });
     }
 
     onMouseOut(e, d, i) {
         this.setState({
-            genderLabel: ''
+            hometownLabel: ''
         });
     }
 
     render() {
         return (
-            <div className='genderData'>
-                <h3>Authorship by gender</h3>
-                <p className={this.getGenderLabelClass()}>{this.state.genderLabel}</p>
+            <div className='hometownData'>
+                <h3>Authorship by hometown</h3>
+                <p className={this.getHometownLabelClass()}>{this.state.hometownLabel}</p>
                 <PieChart
-                    data={this.props.genderData}
+                    data={this.props.hometownData}
                     startAngle={180}
                     lengthAngle={180}
                     onMouseOver={this.onMouseOver}
@@ -60,4 +60,4 @@ class GenderData extends Component {
     }
 }
 
-export default GenderData;
+export default HometownData;

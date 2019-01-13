@@ -1,7 +1,10 @@
 import React, { Component } from 'react';
 import { getAuthorInfo, getLast200Books } from '../clients/goodreads';
+import { mapHometown } from '../clients/homeTownMap';
+import { getRandomColor } from '../clients/style';
 import Book from '../components/book';
 import GenderData from './genderData';
+import HometownData from './hometownData';
 
 import './style/bookData.css';
 
@@ -11,11 +14,10 @@ class BookData extends Component {
 
         this.state = {
             bookList: '',
-            genderData: [
-                { title: 'Male', value: 1, color: '#E38627' },
-                { title: 'Female', value: 1, color: '#C13C37' },
-                { title: 'Unknown', value: 1, color: '#6A2135' },
-            ]        }
+            genderData: [],
+            hometownData: [],
+            hometownColors: []
+        }
     }
 
     async componentDidMount() {
@@ -25,6 +27,8 @@ class BookData extends Component {
             var maleCount = 1;
             var femaleCount = 1;
             var unknownCount = 1;
+            var hometownDict = {};
+
             data.forEach(book => {
                 var dateRead = book.read_at['#text'];
                 if (!dateRead) {
@@ -53,7 +57,46 @@ class BookData extends Component {
                         femaleCount += 1;
                     }
                     else {
+                        // TO-DO: send an e-mail with the value to map it properly
                         unknownCount += 1;
+                    }
+
+                    var homeTown = authorData.hometown['#text'];
+                    if (homeTown) {
+                        homeTown = mapHometown(homeTown.split(',').pop().trim());
+                        if (homeTown.includes('UNIDENTIFIED')) {
+                            // TO-DO: send an e-mail with value to add it to the map
+                            console.log(authorData.hometown['#text']);
+                        }
+                        else {
+                            if (hometownDict[homeTown]) {
+                                hometownDict[homeTown] += 1;
+                            }
+                            else {
+                                hometownDict[homeTown] = 1;
+                            }
+                        }
+                    }
+
+                    var hometownArray = [];
+                    var colorIndex = 0;
+                    for (var key in hometownDict) {
+                        var item = {};
+                        item.title = key;
+                        item.value = hometownDict[key];
+                        if (colorIndex < this.state.hometownColors.length) {
+                            item.color = this.state.hometownColors[colorIndex]
+                        }
+                        else {
+                            item.color = getRandomColor();
+                            var newColorArray = this.state.hometownColors;
+                            newColorArray.push(item.color)
+                            this.setState({
+                                hometownColors: newColorArray
+                            })
+                        }
+                        colorIndex += 1;
+                        hometownArray.push(item);
                     }
 
                     this.setState({
@@ -61,7 +104,8 @@ class BookData extends Component {
                             { title: 'Male', value: maleCount, color: '#E38627' },
                             { title: 'Female', value: femaleCount, color: '#C13C37' },
                             { title: 'Unknown', value: unknownCount, color: '#6A2135' },
-                        ]
+                        ],
+                        hometownData: hometownArray
                     });
                 });
             });
@@ -90,6 +134,8 @@ class BookData extends Component {
                 </table>
                 
                 <GenderData genderData={this.state.genderData} />
+
+                <HometownData hometownData={this.state.hometownData} />
 
             </div>
 
