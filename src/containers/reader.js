@@ -19,7 +19,7 @@ class Reader extends Component {
                 </p>
 
                 <div>                
-                    <BookData userId = '4901618' />
+                    <BookData />
                 </div>
 
             </div>

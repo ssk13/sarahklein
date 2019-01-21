@@ -60,16 +60,20 @@ class Developer extends Component {
                         </li>
                         <li>
                             <a href='https://taylorraynormusic.com' target='_blank' 
-                                rel='noopener noreferrer'>TaylorRaynorMusic.com</a>
+                                rel='noopener noreferrer'>TaylorRaynorMusic.com</a>: Personal website of Tampa-based 
+                                singer/songwriter, <i>Taylor Raynor</i>
                         </li>
                         <li>
                             <a href='http://ufdc.ufl.edu/UF00091523/00872' target='_blank' 
                                 rel='noopener noreferrer'>Point/Counterpoint–Verifying Two-Voice Species 
-                                Counterpoint In The Style Of Palestrina </a>
+                                Counterpoint In The Style Of Palestrina </a>: Academic paper, published in the <i>UF 
+                                    Journal of Undergraduate Research</i>, about algorithmic verification of species 
+                                    counterpoint
                         </li>
                         <li>
                             <a href='https://ssk13.github.io/sarahklein/#/reader' target='_blank' 
-                                rel='noopener noreferrer'>What I've Read Lately </a>
+                                rel='noopener noreferrer'>What I've Read Lately </a>: A dashboard displaying metrics about 
+                                my reading habits, derived from Goodreads APIs
                         </li>
                     </ul>
                 </div>

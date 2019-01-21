@@ -3,6 +3,7 @@ import books from '../assets/goodreadsBooks.xml';
 import bookData from '../assets/bookData.json';
 
 const apiKey = '05VzMTV0rAKoDt0jXZohg';
+const myUserId = '4901618';
 
 export function getLast50StoredBooks() {
     return(fetch(books)
@@ -18,8 +19,8 @@ export function getLatestBookData() {
     return bookData;
 }
 
-export function getLast200Books(userId) {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=50page=1&sort=date_read&order=d';
+export function getLast200Books() {
+    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + myUserId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=50page=1&sort=date_read&order=d';
     return (
         axios.get(url)
         .then(data => 

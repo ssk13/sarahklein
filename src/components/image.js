@@ -3,14 +3,6 @@ import React, { Component } from 'react';
 import './style/image.css';
 
 class Image extends Component {
-    constructor(props) {
-        super(props);
-
-        this.state = {
-            captionVisible: false
-        }
-    }
-
     getHeight(size) {
         return 20 * size;
     }
@@ -32,9 +24,12 @@ class Image extends Component {
                     height={this.getHeight(this.props.size)}
                 />
                  
+                {this.props.hasCaption && 
                 <div className='caption'>
                     <span>{this.props.altTxt}</span>
-                </div>
+                </div>                
+                }
+
             </div>
         );
     }
