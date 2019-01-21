@@ -14,11 +14,11 @@ class Reader extends Component {
                     read from a very diverse authorship, and to fix this, I built a tool that used the 
                     <a href="https://www.goodreads.com/"> Goodreads</a> APIs to help me see trends in what I was 
                     reading. In the future, this tool will recommend me books from my 'to-read' shelf that help 
-                    fill in underrepresented categories.
+                    fill in underrepresented categories. Here, you can see the results from the last 50 books that 
+                    I have read:
                 </p>
 
                 <div>                
-                    <h3>What I've Read Lately</h3>
                     <BookData userId = '4901618' />
                 </div>
 

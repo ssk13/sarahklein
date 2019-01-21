@@ -1,0 +1,20 @@
+[{
+    "hometowns": [
+        {"title": "South Africa", "value": 1, "color": "#535746"},
+        {"title": "United Kingdom", "value": 15, "color": "#1FC8D7"},
+        {"title": "India", "value": 1, "color": "#57FA19"},
+        {"title": "United Statesa", "value": 9, "color": "#E2BB66"},
+        {"title": "Japan", "value": 3, "color": "#116719"},
+        {"title": "Singapore", "value": 1, "color": "#BECCE5"},
+        {"title": "Canada", "value": 1, "color": "#10EC6A"}
+    ],
+    "gender": [
+        {"title": "Male", "value": 27, "color": "#E38627"},
+        {"title": "Female", "value": 16, "color": "#C13C37"}
+
+    ],
+    "genre": [
+        {"title": "Fiction", "value": 41, "color": "#E38627"},
+        {"title": "Non-Fiction", "value": 10, "color": "#C13C37"}
+    ]
+}]

@@ -9,6 +9,7 @@
 - Provide break-down by genre?
 - Provide break-down by age of author?
 - Provide break-down by topic
+- Create more automated export of data
 
 ## Possible Resources
 - https://openlibrary.org/authors/OL2678246A/Max_Barry

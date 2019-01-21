@@ -1,9 +1,25 @@
 import axios from 'axios';
+import books from '../assets/goodreadsBooks.xml';
+import bookData from '../assets/bookData.json';
 
 const apiKey = '05VzMTV0rAKoDt0jXZohg';
 
+export function getLast50StoredBooks() {
+    return(fetch(books)
+    .then(response => response.text())
+    .then(text => {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, 'text/xml');
+        return xmlToJson(xml).GoodreadsResponse.reviews.review;
+    }));
+}
+
+export function getLatestBookData() {
+    return bookData;
+}
+
 export function getLast200Books(userId) {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=200page=1&sort=date_read&order=d';
+    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + userId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=50page=1&sort=date_read&order=d';
     return (
         axios.get(url)
         .then(data => 
