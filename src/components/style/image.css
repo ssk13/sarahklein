@@ -4,7 +4,13 @@ img {
 }
 
 .caption {
-    height: 36px;
+    display: none;
+    width: 100%;
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+    background: rgba(0,0,0,.7);
+    color: white;
 }
 
 .caption span {
@@ -13,4 +19,11 @@ img {
 
 .image {
     display: inline-block;
+    position: relative;
+    height: 200px;
+}
+
+.image:hover > .caption {
+    display: block;
+    overflow-y: hidden;
 }

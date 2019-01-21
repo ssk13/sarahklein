@@ -12,9 +12,6 @@ class Image extends Component {
     }
 
     getHeight(size) {
-        if (this.state.captionVisible) {
-            return 22 * size;
-        }
         return 20 * size;
     }
 
@@ -33,22 +30,10 @@ class Image extends Component {
                     src={this.props.imgSrc}
                     alt={this.props.altTxt}
                     height={this.getHeight(this.props.size)}
-                    onMouseEnter={() => {
-                        this.setState({
-                            captionVisible: this.props.hasCaption && true,
-                        })
-                    }}
-                    onMouseLeave={() => {
-                        this.setState({
-                            captionVisible: false,
-                        })
-                    }}
                 />
                  
                 <div className='caption'>
-                    { this.state.captionVisible &&
-                        <span>{this.props.altTxt}</span>
-                    }
+                    <span>{this.props.altTxt}</span>
                 </div>
             </div>
         );
