@@ -5,6 +5,7 @@ import NavBar from './components/navBar';
 import Developer from './containers/developer';
 import Musician from './containers/musician';
 import Photographer from './containers/photographer';
+import Reader from './containers/reader';
 import './App.css';
 
 class App extends Component {
@@ -18,6 +19,7 @@ class App extends Component {
                         <Route path='/musician' component={Musician}/>
                         <Route path='/developer' component={Developer}/>
                         <Route path='/photographer' component={Photographer}/>
+                        <Route path='/reader' component={Reader}/>
                         <Route exact path='/' component={Developer}/>
                     </div>
                     <Footer />

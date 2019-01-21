@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PieChart from 'react-minimal-pie-chart';
+import ReactMinimalPieChart from 'react-minimal-pie-chart';
 
 import './style/fictionData.css';
 
@@ -48,7 +48,7 @@ class FictionData extends Component {
             <div className='fictionData'>
                 <h3>Authorship by fiction/non-fiction</h3>
                 <p className={this.getFictionLabelClass()}>{this.state.fictionLabel}</p>
-                <PieChart
+                <ReactMinimalPieChart
                     data={this.props.fictionData}
                     startAngle={180}
                     lengthAngle={180}

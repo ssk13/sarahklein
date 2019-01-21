@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PieChart from 'react-minimal-pie-chart';
+import ReactMinimalPieChart from 'react-minimal-pie-chart';
 
 import './style/genderData.css';
 
@@ -48,7 +48,7 @@ class GenderData extends Component {
             <div className='genderData'>
                 <h3>Authorship by gender</h3>
                 <p className={this.getGenderLabelClass()}>{this.state.genderLabel}</p>
-                <PieChart
+                <ReactMinimalPieChart
                     data={this.props.genderData}
                     startAngle={180}
                     lengthAngle={180}

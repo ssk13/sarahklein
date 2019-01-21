@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import sarah from '../assets/sarah.JPG';
-import BookData from '../components/bookData';
 import Image from '../components/image';
 
 import './style/developer.css'
@@ -68,10 +67,11 @@ class Developer extends Component {
                                 rel='noopener noreferrer'>Point/Counterpoint–Verifying Two-Voice Species 
                                 Counterpoint In The Style Of Palestrina </a>
                         </li>
+                        <li>
+                            <a href='https://ssk13.github.io/sarahklein/#/reader' target='_blank' 
+                                rel='noopener noreferrer'>What I've Read Lately </a>
+                        </li>
                     </ul>
-                
-                    <h3>What I've Read Lately</h3>
-                    <BookData userId = '4901618' />
                 </div>
 
             </div>

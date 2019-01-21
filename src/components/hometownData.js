@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PieChart from 'react-minimal-pie-chart';
+import ReactMinimalPieChart from 'react-minimal-pie-chart';
 
 import './style/hometownData.css';
 
@@ -48,7 +48,7 @@ class HometownData extends Component {
             <div className='hometownData'>
                 <h3>Authorship by hometown</h3>
                 <p className={this.getHometownLabelClass()}>{this.state.hometownLabel}</p>
-                <PieChart
+                <ReactMinimalPieChart
                     data={this.props.hometownData}
                     startAngle={180}
                     lengthAngle={180}
