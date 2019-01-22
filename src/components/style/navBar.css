@@ -2,3 +2,17 @@ a.active {
     color: black !important;
     background-color: rgb(235, 131, 40);
 }
+
+a:hover {
+    text-decoration: underline !important;
+}
+
+.resume {
+    float: right;
+}
+
+.resume>a {
+    color: rgb(235, 131, 40) !important;
+    font-weight: lighter !important;
+    font-style: italic !important;
+}

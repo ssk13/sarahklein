@@ -17,7 +17,7 @@ class Image extends Component {
 
     render() {
         return (
-            <div className='image' style={this.getImageStyle()}>
+            <div className='image' style={this.getImageStyle()} height={this.getHeight(this.props.size)}>
                 <img
                     src={this.props.imgSrc}
                     alt={this.props.altTxt}

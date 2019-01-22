@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { NavLink } from 'react-router-dom';
+import Resume from '../assets/Resume.pdf';
 
 import './style/navBar.css';
 
@@ -13,10 +14,12 @@ class NavBar extends Component {
     }
 
     getClassName(pageName) {
+        var className = pageName;
+        
         if (this.state.activePage === pageName) {
-            return 'active';
+            className += ' active'
         }
-        return '';
+        return className;
     }
 
     render() {
@@ -30,6 +33,9 @@ class NavBar extends Component {
                 </li>
                 <li>
                     <NavLink className={this.getClassName('photographer')} to="/photographer" onClick={() => {this.setState({activePage: 'photographer'})}}>Photographer</NavLink>
+                </li>
+                <li className={this.getClassName('resume')}>
+                    <a href={Resume} target='_blank' rel='noopener noreferrer'>Resume</a>
                 </li>
             </ul>
         );

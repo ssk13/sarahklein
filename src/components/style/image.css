@@ -20,7 +20,6 @@ img {
 .image {
     display: inline-block;
     position: relative;
-    height: 200px;
 }
 
 .image:hover > .caption {
