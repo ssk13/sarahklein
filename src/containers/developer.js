@@ -15,42 +15,43 @@ class Developer extends Component {
                 <div>
 
                     <p>
-                        Sarah started her engineering career as a math-enthused 12-year-old building ugly 
-                        websites on per parents' PC. During her time at the University of Florida, she graduated 
-                        with a BS in Digital Arts and Sciences Engineering, in addition to a BA in Music Theory. 
-                        During her final year, she was published in the university's Journal of Undergraduate 
-                        Research for her paper documenting <a href='http://ufdc.ufl.edu/UF00091523/00872' 
+                        I started my engineering career as a math-enthused 12-year-old building ugly 
+                        websites on my parents' PC, and continuing to tinker until I found myself at the 
+                        University of Florida. During my time there, I studied Digital Arts and Sciences 
+                        Engineering, earning a BS in Engineering, as well as a BA in Music Theory. 
+                        During my final year, I was published in the university's Journal of Undergraduate 
+                        Research for my paper documenting <a href='http://ufdc.ufl.edu/UF00091523/00872' 
                         target='_blank' rel='noopener noreferrer'>'Point/Counterpoint'</a>, a web application 
-                        that algorithmically  verified species counterpoint in the style of Palestrina.
+                        that algorithmically verified species counterpoint in the style of Palestrina.
                     </p>
 
                     <p>
-                        Sarah completed three technical internships at Microsoft - two on <i>Sway</i> and 
-                        another on <i>PowerPoint</i>. On <i>Sway</i>, she helped implement native audio support. 
-                        On <i>PowerPoint</i>, she added <i>PowerPointer</i> - a feature that allows users to 
+                        I completed three technical internships at Microsoft - two on <i>Sway</i> and 
+                        another on <i>PowerPoint</i>. On <i>Sway</i>, I helped implement native audio support. 
+                        On <i>PowerPoint</i>, I added <i>PowerPointer</i> - a feature that allows users to 
                         trigger and manipulate a laser pointer in Presentation Mode using the phone's gyroscope - 
                         to Android and Windows Phone clients.
                     </p>
 
                     <p>
-                        While in Gainesville, Sarah completed a QA Developer Internship at Grooveshark, where she 
+                        While in Gainesville, I completed a QA Developer Internship at Grooveshark, where I 
                         performed bug fixes, implemented new UI elements, learned the importance of true 
-                        cross-platform development, and got her first taste of Git.
+                        cross-platform development, and got my first taste of Git.
                     </p>
 
                     <p>
-                        Sarah started her full-time career at Microsoft in September, 2017, working on the Data 
-                        and Intelligence team for Windows IoT Core, where she developed UWP apps for IoT Core 
+                        I started her full-time career at Microsoft in September, 2017, working on the Data 
+                        and Intelligence team for Windows IoT Core, where I developed UWP apps for IoT Core 
                         scenarios, used data analytics to monitor product health, and helped partners leverage 
                         IoT Core for their own solutions.    
                     </p>
 
                     <p>
-                        Sarah currently works as a software developer for Microsoft, working in BAG. Her team 
-                        focuses on empowering businesses with technology, primarily IoT and computer vision 
-                        solutions built upon Dynamics 365. On this team, she has dabbled in React Native development 
-                        for iOS and Android, React development for an Azure-hosted web application, firmware 
-                        development for both IoT Core and Mongoose OS devices, and OpenCV.
+                        I currently works as a software developer for Microsoft, working in BAG. My team 
+                        focuses on empowering retailers using IoT and computer vision solutions built on 
+                        Dynamics 365. On this team, I have dabbled in React Native development for iOS and Android, 
+                        React development for an Azure-hosted web application, firmware development for both IoT 
+                        Core and Mongoose OS devices, and computer vision with Python and OpenCV.
                     </p>
 
                     <h2>Additional Links</h2>

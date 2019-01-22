@@ -25,16 +25,16 @@ class Photographer extends Component {
                 <h2>Photographer</h2>
 
                 <p>
-                    Sarah's interest in photography stemmed from her deep love of travel (24 countries and counting!), as 
-                    well as a demand for affordable recital posters and headshots during her time at the University of 
-                    Florida. While primarily a hobbiest, her photos have been featured several times in the Tampa Bay Times. 
+                    My interest in photography stemmed my her deep love of travel (24 countries and counting!), as 
+                    well as a demand for affordable recital posters and headshots during My time at the University of 
+                    Florida. While primarily a hobbiest, my photos have been featured several times in the Tampa Bay Times. 
                 </p>
                     
                 <p>
-                    She currently works with <a href='https://www.sofarsounds.com/seattle' target='_blank' 
-                    rel='noopener noreferrer'>Sofar Seattle's</a> creative team, volunteers with <a 
+                    I currently works with <a href='https://www.sofarsounds.com/seattle' target='_blank' 
+                    rel='noopener noreferrer'>Sofar Seattle's</a> creative team, volunteer with <a 
                     href='https://www.chicktech.org' target='_blank' rel='noopener noreferrer'>Chicktech</a> as 
-                    a photographer,  and enjoys photographing the lush landscapes of the Pacific Northwest.
+                    a photographer, and enjoys photographing the lush landscapes of the Pacific Northwest.
                 </p>
 
                 <ImageRow>
