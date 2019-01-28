@@ -25,8 +25,8 @@ class Photographer extends Component {
                 <h2>Photographer</h2>
 
                 <p>
-                    My interest in photography stemmed my her deep love of travel (24 countries and counting!), as 
-                    well as a demand for affordable recital posters and headshots during My time at the University of 
+                    My interest in photography stemmed from my deep love of travel (24 countries and counting!), as 
+                    well as a demand for affordable recital posters and headshots during my time at the University of 
                     Florida. While primarily a hobbiest, my photos have been featured several times in the Tampa Bay Times. 
                 </p>
                     
