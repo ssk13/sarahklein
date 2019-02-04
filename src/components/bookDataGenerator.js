@@ -109,6 +109,14 @@ class BookDataGenerator extends Component {
                             ],
                             hometownData: hometownArray
                         });
+                        //TODO: Export to XML file
+                        var bookData = {
+                            "hometowns": this.state.hometownData,
+                            "gender": this.state.genderData,
+                            "genre": this.state.fictionData
+                        };
+            
+                        console.log(bookData);
                     });
     
                     var bookId = book.book.id['#text'];
@@ -136,6 +144,14 @@ class BookDataGenerator extends Component {
                                 { title: 'Non-Fiction', value: nonFictionCount, color: '#C13C37' },
                             ]
                         });
+                        //TODO: Export to XML file
+                        var bookData = {
+                            "hometowns": this.state.hometownData,
+                            "gender": this.state.genderData,
+                            "genre": this.state.fictionData
+                        };
+            
+                        console.log(bookData);
                     })
                 });
             }

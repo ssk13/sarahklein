@@ -16,8 +16,8 @@ class Book extends Component {
                 <img className='bookImage' src={this.props.imgSrc} alt={this.props.altTxt} />
 
                 <div className='bookInfo'>
-                    <p>{this.props.title}</p>
-                    <p>{this.props.author}</p>
+                    <a href={this.props.link} target='_blank' rel='noopener noreferrer'>{this.props.title}</a>
+                    <p className='author'>{this.props.author}</p>
                     <p className='dateRead'>{this.props.dateRead}</p>
                 </div>
 

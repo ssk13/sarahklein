@@ -27,6 +27,8 @@ export function getLast200Books() {
             {
                 const parser = new DOMParser();
                 const xml = parser.parseFromString(data.data, 'text/xml');
+                //TODO: Export to xml file
+                console.log(xml);
                 return xmlToJson(xml).GoodreadsResponse.reviews.review;
             })
         .catch(err=>console.log(err))

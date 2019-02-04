@@ -7,14 +7,318 @@
   
   <shelf exclusive="true" id="15689188" name="read" sortable="false"/>
 
-<reviews start="1" end="50" total="374">
+<reviews start="1" end="50" total="371">
+    <review>
+  <id>1583589427</id>
+    <book>
+  <id type="integer">22822858</id>
+  <isbn>0385539258</isbn>
+  <isbn13>9780385539258</isbn13>
+  <text_reviews_count type="integer">16332</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7gXfDK-iLYEoVVZmnZigrg</uri>
+  <title>A Little Life</title>
+  <title_without_series>A Little Life</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1446469353m/22822858.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1446469353s/22822858.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22822858-a-little-life</link>
+  <num_pages>720</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>133909</ratings_count>
+  <description>When four classmates from a small Massachusetts college move to New York to make their way, they're broke, adrift, and buoyed only by their friendship and ambition. There is kind, handsome Willem, an aspiring actor; JB, a quick-witted, sometimes cruel Brooklyn-born painter seeking entry to the art world; Malcolm, a frustrated architect at a prominent firm; and withdrawn, brilliant, enigmatic Jude, who serves as their center of gravity. &lt;br /&gt;&lt;br /&gt;Over the decades, their relationships deepen and darken, tinged by addiction, success, and pride.¬†Yet their greatest challenge, each comes to realize, is Jude himself, by midlife a terrifyingly talented litigator yet an increasingly broken man, his mind and body scarred by an unspeakable childhood, and haunted by what he fears is a degree of trauma that he‚Äôll not only be unable to overcome‚Äîbut that will define his life forever.</description>
+<authors>
+<author>
+<id>6571447</id>
+<name>Hanya Yanagihara</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1421881815p5/6571447.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1421881815p2/6571447.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6571447.Hanya_Yanagihara]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>146988</ratings_count>
+<text_reviews_count>23013</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>42375710</id>
+  <uri>kca://work/amzn1.gr.work.v1.SxzsASib61htxXN1ADhrww</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Jan 23 17:16:12 -0800 2019</started_at>
+  <read_at>Fri Feb 01 13:55:19 -0800 2019</read_at>
+  <date_added>Fri Mar 18 14:12:36 -0700 2016</date_added>
+  <date_updated>Fri Feb 01 13:55:19 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1583589427]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1583589427]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2686247706</id>
+    <book>
+  <id type="integer">23128304</id>
+  <isbn>0385354304</isbn>
+  <isbn13>9780385354301</isbn13>
+  <text_reviews_count type="integer">3315</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.W4X1GAIZT0en8qXYAZpkpw</uri>
+  <title>The Strange Library</title>
+  <title_without_series>The Strange Library</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1419549475m/23128304.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1419549475s/23128304.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23128304-the-strange-library</link>
+  <num_pages>96</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>32093</ratings_count>
+  <description>&lt;b&gt;From internationally acclaimed author Haruki Murakami‚Äîa fantastical illustrated short novel about a boy imprisoned in a nightmarish library.&lt;/b&gt;&lt;br /&gt;&lt;b&gt; ¬†&lt;/b&gt;&lt;br /&gt; Opening the flaps on this unique little book, readers will find themselves immersed in the strange world of best-selling Haruki Murakami's wild imagination. The story of a lonely boy, a mysterious girl, and a tormented sheep man plotting their escape from a nightmarish library, the book is like nothing else Murakami has written. Designed by Chip Kidd and fully illustrated, in full color, throughout, this small format, 96 page volume is a treat for book lovers of all ages.</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1539035376p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1539035376p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>1883768</ratings_count>
+<text_reviews_count>136937</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>42676389</id>
+  <uri>kca://work/amzn1.gr.work.v1.0Vm_ODYpvmEXGRKxnAx2_Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Wed Jan 23 10:06:09 -0800 2019</started_at>
+  <read_at>Wed Jan 23 10:30:39 -0800 2019</read_at>
+  <date_added>Wed Jan 23 10:06:09 -0800 2019</date_added>
+  <date_updated>Wed Jan 23 10:30:39 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2686247706]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2686247706]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1583589997</id>
+    <book>
+  <id type="integer">392563</id>
+  <isbn>0374249393</isbn>
+  <isbn13>9780374249397</isbn13>
+  <text_reviews_count type="integer">568</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.97UQA_EaEiLaCcy2T8gdIA</uri>
+  <title>The Rest Is Noise: Listening to the Twentieth Century</title>
+  <title_without_series>The Rest Is Noise: Listening to the Twentieth Century</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1311973474m/392563.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1311973474s/392563.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/392563.The_Rest_Is_Noise</link>
+  <num_pages>640</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Farrar, Straus and Giroux</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>11805</ratings_count>
+  <description>&lt;i&gt;The Rest Is Noise: Listening to the Twentieth Century&lt;/i&gt; is a voyage into the labyrinth of modern music, which remains an obscure world for most people. While paintings of Picasso and Jackson Pollock sell for a hundred million dollars or more, and lines from T. S. Eliot are quoted on the yearbook pages of alienated teenagers across the land, twentieth-century classical music still sends ripples of unease through audiences. At the same time, its influence can be felt everywhere. Atonal chords crop up in jazz. Avant-garde sounds populate the soundtracks of Hollywood thrillers. Minimalism has had a huge effect on rock, pop, and dance music from the Velvet Underground onward.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Rest Is Noise&lt;/i&gt; shows why twentieth-century composers felt compelled to create a famously bewildering variety of sounds, from the purest beauty to the purest noise. It tells of a remarkable array of maverick personalities who resisted the cult of the classical past, struggled against the indifference of a wide public, and defied the will of dictators. Whether they have charmed audiences with sweet sounds or battered them with dissonance, composers have always been exuberantly of the present, defying the stereotype of classical music as a dying art. The narrative goes from Vienna before the First World War to Paris in the twenties, from Hitler's Germany and Stalin's Russia to downtown New York in the sixties and seventies. We follow the rise of mass culture and mass politics, of dramatic new technologies, of hot and cold wars, of experiments, revolutions, riots, and friendships forged and broken. The end result is not so much a history of twentieth-century music as a history of the twentieth century through its music.</description>
+<authors>
+<author>
+<id>2870641</id>
+<name>Alex  Ross</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1249064590p5/2870641.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1249064590p2/2870641.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2870641.Alex_Ross]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>14276</ratings_count>
+<text_reviews_count>814</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2373496</id>
+  <uri>kca://work/amzn1.gr.work.v1.NlHehzZqaL8oDLKrXb_9Pg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Thu Jan 10 23:36:40 -0800 2019</started_at>
+  <read_at>Tue Jan 22 19:20:49 -0800 2019</read_at>
+  <date_added>Fri Mar 18 14:13:19 -0700 2016</date_added>
+  <date_updated>Tue Jan 22 19:20:56 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1583589997]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1583589997]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2359180334</id>
+    <book>
+  <id type="integer">9460487</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">49044</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.f_Y4aMvlz9f6Pgy0FdRtDA</uri>
+  <title>Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)</title>
+  <title_without_series>Miss Peregrine's Home for Peculiar Children</title_without_series>
+  <image_url>https://images.gr-assets.com/books/1546430481m/9460487.jpg</image_url>
+  <small_image_url>https://images.gr-assets.com/books/1546430481s/9460487.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children</link>
+  <num_pages>352</num_pages>
+  <format/>
+  <edition_information>First Edition</edition_information>
+  <publisher>Quirk</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>3.91</average_rating>
+  <ratings_count>825491</ratings_count>
+  <description>Alternate Cover edition for ISBN &lt;a href="https://www.goodreads.com/book/show/25879546-miss-peregrine-s-home-for-peculiar-children" rel="nofollow"&gt;9781594744761&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;A mysterious island. An abandoned orphanage. A strange collection of very curious photographs. It all waits to be discovered in Miss Peregrine's Home for Peculiar Children, an unforgettable novel that mixes fiction and photography in a thrilling reading experience. As our story opens, a horrific family tragedy sets sixteen-year-old Jacob journeying to a remote island off the coast of Wales, where he discovers the crumbling ruins of Miss Peregrine's Home for Peculiar Children. As Jacob explores its abandoned bedrooms and hallways, it becomes clear that the children were more than just peculiar. They may have been dangerous. They may have been quarantined on a deserted island for good reason. And somehow-impossible though it seems-they may still be alive. A spine-tingling fantasy illustrated with haunting vintage photography, Miss Peregrine's Home for Peculiar Children will delight adults, teens, and anyone who relishes an adventure in the shadows.</description>
+<authors>
+<author>
+<id>3046613</id>
+<name>Ransom Riggs</name>
+<role/>
+<image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1475462673p5/3046613.jpg]]>
+</image_url>
+<small_image_url nophoto="false">
+<![CDATA[https://images.gr-assets.com/authors/1475462673p2/3046613.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3046613.Ransom_Riggs]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1123958</ratings_count>
+<text_reviews_count>88544</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>14345371</id>
+  <uri>kca://work/amzn1.gr.work.v1.gIDHCwbAFP_mdNB5A-qqDw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
+
+</shelves>
+
+  <recommended_for/>
+  <recommended_by/>
+  <started_at>Tue Jan 22 19:21:21 -0800 2019</started_at>
+  <read_at>Tue Jan 22 22:31:36 -0800 2019</read_at>
+  <date_added>Thu Apr 12 10:05:45 -0700 2018</date_added>
+  <date_updated>Tue Jan 22 22:31:41 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2359180334]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2359180334]]></link>
+    <owned>0</owned>
+</review>
+
     <review>
   <id>2551639348</id>
     <book>
   <id type="integer">853510</id>
   <isbn>0007119313</isbn>
   <isbn13>9780007119318</isbn13>
-  <text_reviews_count type="integer">6834</text_reviews_count>
+  <text_reviews_count type="integer">6906</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.mNHr9SKqwAf1U8KzDYEkcQ</uri>
   <title>Murder on the Orient Express (Hercule Poirot, #10)</title>
   <title_without_series>Murder on the Orient Express</title_without_series>
@@ -30,7 +334,7 @@
   <publication_year>2007</publication_year>
   <publication_month>6</publication_month>
   <average_rating>4.16</average_rating>
-  <ratings_count>279411</ratings_count>
+  <ratings_count>281513</ratings_count>
   <description>What more can a mystery addict desire than a much-loathed murder victim found aboard the luxurious Orient Express with multiple stab wounds, thirteen likely suspects, an incomparably brilliant detective in Hercule Poirot, and the most ingenious crime ever conceived?</description>
 <authors>
 <author>
@@ -45,8 +349,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
 <average_rating>3.99</average_rating>
-<ratings_count>3115089</ratings_count>
-<text_reviews_count>152547</text_reviews_count>
+<ratings_count>3134670</ratings_count>
+<text_reviews_count>153913</text_reviews_count>
 </author>
 </authors>
   <published>2007</published>
@@ -90,7 +394,7 @@
   <id type="integer">29780253</id>
   <isbn>0385689225</isbn>
   <isbn13>9780385689229</isbn13>
-  <text_reviews_count type="integer">15695</text_reviews_count>
+  <text_reviews_count type="integer">15977</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.VGbAzZ0ZqITX1gPOzrjdFw</uri>
   <title>Born a Crime: Stories From a South African Childhood</title>
   <title_without_series>Born a Crime: Stories From a South African Childhood</title_without_series>
@@ -106,8 +410,8 @@
   <publication_year>2016</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.44</average_rating>
-  <ratings_count>174624</ratings_count>
-  <description>The compelling, inspiring, and comically sublime New York Times bestseller about one manís coming-of-age, set during the twilight of apartheid and the tumultuous days of freedom that followed.&lt;br /&gt;&lt;br /&gt;Trevor Noahís unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parentsí indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away. Finally liberated by the end of South Africaís tyrannical white rule, Trevor and his mother set forth on a grand adventure, living openly and freely and embracing the opportunities won by a centuries-long struggle.&lt;br /&gt;&lt;br /&gt;Born a Crime is the story of a mischievous young boy who grows into a restless young man as he struggles to find himself in a world where he was never supposed to exist. It is also the story of that young manís relationship with his fearless, rebellious, and fervently religious motheróhis teammate, a woman determined to save her son from the cycle of poverty, violence, and abuse that would ultimately threaten her own life.&lt;br /&gt;&lt;br /&gt;The eighteen personal essays collected here are by turns hilarious, dramatic, and deeply affecting. Whether subsisting on caterpillars for dinner during hard times, being thrown from a moving car during an attempted kidnapping, or just trying to survive the life-and-death pitfalls of dating in high school, Trevor illuminates his curious world with an incisive wit and unflinching honesty. His stories weave together to form a moving and searingly funny portrait of a boy making his way through a damaged world in a dangerous time, armed only with a keen sense of humor and a motherís unconventional, unconditional love.&lt;br /&gt;&lt;br /&gt;Source: penguinrandomhouse.ca</description>
+  <ratings_count>178099</ratings_count>
+  <description>The compelling, inspiring, and comically sublime New York Times bestseller about one man‚Äôs coming-of-age, set during the twilight of apartheid and the tumultuous days of freedom that followed.&lt;br /&gt;&lt;br /&gt;Trevor Noah‚Äôs unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parents‚Äô indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away. Finally liberated by the end of South Africa‚Äôs tyrannical white rule, Trevor and his mother set forth on a grand adventure, living openly and freely and embracing the opportunities won by a centuries-long struggle.&lt;br /&gt;&lt;br /&gt;Born a Crime is the story of a mischievous young boy who grows into a restless young man as he struggles to find himself in a world where he was never supposed to exist. It is also the story of that young man‚Äôs relationship with his fearless, rebellious, and fervently religious mother‚Äîhis teammate, a woman determined to save her son from the cycle of poverty, violence, and abuse that would ultimately threaten her own life.&lt;br /&gt;&lt;br /&gt;The eighteen personal essays collected here are by turns hilarious, dramatic, and deeply affecting. Whether subsisting on caterpillars for dinner during hard times, being thrown from a moving car during an attempted kidnapping, or just trying to survive the life-and-death pitfalls of dating in high school, Trevor illuminates his curious world with an incisive wit and unflinching honesty. His stories weave together to form a moving and searingly funny portrait of a boy making his way through a damaged world in a dangerous time, armed only with a keen sense of humor and a mother‚Äôs unconventional, unconditional love.&lt;br /&gt;&lt;br /&gt;Source: penguinrandomhouse.ca</description>
 <authors>
 <author>
 <id>15149526</id>
@@ -121,8 +425,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/15149526.Trevor_Noah]]></link>
 <average_rating>4.44</average_rating>
-<ratings_count>175143</ratings_count>
-<text_reviews_count>19404</text_reviews_count>
+<ratings_count>178649</ratings_count>
+<text_reviews_count>19747</text_reviews_count>
 </author>
 </authors>
   <published>2016</published>
@@ -166,7 +470,7 @@
   <id type="integer">18122</id>
   <isbn>0440238153</isbn>
   <isbn13>9780440238157</isbn13>
-  <text_reviews_count type="integer">5472</text_reviews_count>
+  <text_reviews_count type="integer">5494</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.VcCGXRqplkAIDedDfMSt3A</uri>
   <title>The Amber Spyglass (His Dark Materials, #3)</title>
   <title_without_series>The Amber Spyglass</title_without_series>
@@ -182,7 +486,7 @@
   <publication_year>2003</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.08</average_rating>
-  <ratings_count>245332</ratings_count>
+  <ratings_count>246088</ratings_count>
   <description>Will is the bearer of the knife. Now, accompanied by angels, his task is to deliver that powerful, dangerous weapon to Lord Asriel - by the command of his dying father.&lt;br /&gt;&lt;br /&gt;But how can he go looking for Lord Asriel when Lyra is gone? Only with her help can he fathom the myriad plots and and intrigues that beset him. &lt;br /&gt;&lt;br /&gt;The two great powers of the many worlds are lining up for war, and Will must find Lyra, for together they are on their way to battle, an inevitable journey that will even take them to the world of the dead...</description>
 <authors>
 <author>
@@ -197,8 +501,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
 <average_rating>4.01</average_rating>
-<ratings_count>1989831</ratings_count>
-<text_reviews_count>52860</text_reviews_count>
+<ratings_count>1996575</ratings_count>
+<text_reviews_count>53096</text_reviews_count>
 </author>
 </authors>
   <published>2003</published>
@@ -242,7 +546,7 @@
   <id type="integer">22318578</id>
   <isbn>1607747308</isbn>
   <isbn13>9781607747307</isbn13>
-  <text_reviews_count type="integer">18321</text_reviews_count>
+  <text_reviews_count type="integer">18634</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.ttdZWVMvZKyRYRmhYa5Fzg</uri>
   <title>The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing</title>
   <title_without_series>The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing</title_without_series>
@@ -257,13 +561,13 @@
   <publication_day>14</publication_day>
   <publication_year>2014</publication_year>
   <publication_month>10</publication_month>
-  <average_rating>3.80</average_rating>
-  <ratings_count>192372</ratings_count>
+  <average_rating>3.81</average_rating>
+  <ratings_count>196704</ratings_count>
   <description>Despite constant efforts to declutter your home, do papers still accumulate like snowdrifts and clothes pile up like a tangled mess of noodles?&lt;p&gt;Japanese cleaning consultant Marie Kondo takes tidying to a whole new level, promising that if you properly simplify and organize your home once, you'll never have to do it again. Most methods advocate a room-by-room or little-by-little approach, which doom you to pick away at your piles of stuff forever. The KonMari Method, with its revolutionary category-by-category system, leads to lasting results. In fact, none of Kondo's clients have lapsed (and she still has a three-month waiting list).&lt;/p&gt;&lt;p&gt;With detailed guidance for determining which items in your house "spark joy" (and which don't), this international best seller featuring Tokyo's newest lifestyle phenomenon will help you clear your clutter and enjoy the unique magic of a tidy home - and the calm, motivated mindset it can inspire.&lt;/p&gt;</description>
 <authors>
 <author>
 <id>5589647</id>
-<name>Marie Kondo</name>
+<name>Marie Kond≈ç</name>
 <role/>
 <image_url nophoto="false">
 <![CDATA[https://images.gr-assets.com/authors/1451520607p5/5589647.jpg]]>
@@ -273,8 +577,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5589647.Marie_Kond_]]></link>
 <average_rating>3.82</average_rating>
-<ratings_count>219997</ratings_count>
-<text_reviews_count>25315</text_reviews_count>
+<ratings_count>225326</ratings_count>
+<text_reviews_count>25862</text_reviews_count>
 </author>
 </authors>
   <published>2014</published>
@@ -318,7 +622,7 @@
   <id type="integer">22557272</id>
   <isbn>1594633665</isbn>
   <isbn13>9781594633669</isbn13>
-  <text_reviews_count type="integer">83604</text_reviews_count>
+  <text_reviews_count type="integer">83735</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.8xbEiScVn9d9UANlz0UZhA</uri>
   <title>The Girl on the Train</title>
   <title_without_series>The Girl on the Train</title_without_series>
@@ -334,7 +638,7 @@
   <publication_year>2015</publication_year>
   <publication_month>1</publication_month>
   <average_rating>3.90</average_rating>
-  <ratings_count>1632260</ratings_count>
+  <ratings_count>1642239</ratings_count>
   <description>Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She's even started to feel like she knows the people who live in one of the houses. 'Jess and Jason', she calls them. Their life - as she sees it - is perfect. If only Rachel could be that happy. And then she sees something shocking. It's only a minute until the train moves on, but it's enough. Now everything's changed. Now Rachel has a chance to become a part of the lives she's only watched from afar. Now they'll see; she's much more than just the girl on the train...</description>
 <authors>
 <author>
@@ -349,8 +653,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1063732.Paula_Hawkins]]></link>
 <average_rating>3.87</average_rating>
-<ratings_count>1819549</ratings_count>
-<text_reviews_count>121011</text_reviews_count>
+<ratings_count>1832464</ratings_count>
+<text_reviews_count>121414</text_reviews_count>
 </author>
 </authors>
   <published>2015</published>
@@ -394,7 +698,7 @@
   <id type="integer">25953369</id>
   <isbn>0062363603</isbn>
   <isbn13>9780062363602</isbn13>
-  <text_reviews_count type="integer">4939</text_reviews_count>
+  <text_reviews_count type="integer">4968</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.yGrvehl5WsppaCcxk9amnw</uri>
   <title>Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race</title>
   <title_without_series>Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race</title_without_series>
@@ -410,8 +714,8 @@
   <publication_year>2016</publication_year>
   <publication_month>12</publication_month>
   <average_rating>3.96</average_rating>
-  <ratings_count>50485</ratings_count>
-  <description>Soon to be a motion picture. The #1 New York Times Bestseller. Set amid the civil rights movement, the never-before-told true story of NASAís African-American female mathematicians who played a crucial role in Americaís space program. Before Neil Armstrong walked on the moon, a group of professionals worked as ëHuman Computersí, calculating the flight paths that would enable these historic achievements. Among these were a coterie of bright, talented African-American women. Segregated from their white counterparts, these ëcoloured computersí used pencil and paper to write the equations that would launch rockets and astronauts, into space. Moving from World War II through NASAís golden age, touching on the civil rights era, the Space Race, the Cold War and the womenís rights movement, ëHidden Figuresí interweaves a rich history of mankindís greatest adventure with the intimate stories of five courageous women whose work forever changed the world.</description>
+  <ratings_count>51012</ratings_count>
+  <description>Soon to be a motion picture. The #1 New York Times Bestseller. Set amid the civil rights movement, the never-before-told true story of NASA‚Äôs African-American female mathematicians who played a crucial role in America‚Äôs space program. Before Neil Armstrong walked on the moon, a group of professionals worked as ‚ÄòHuman Computers‚Äô, calculating the flight paths that would enable these historic achievements. Among these were a coterie of bright, talented African-American women. Segregated from their white counterparts, these ‚Äòcoloured computers‚Äô used pencil and paper to write the equations that would launch rockets and astronauts, into space. Moving from World War II through NASA‚Äôs golden age, touching on the civil rights era, the Space Race, the Cold War and the women‚Äôs rights movement, ‚ÄòHidden Figures‚Äô interweaves a rich history of mankind‚Äôs greatest adventure with the intimate stories of five courageous women whose work forever changed the world.</description>
 <authors>
 <author>
 <id>14176929</id>
@@ -425,8 +729,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/14176929.Margot_Lee_Shetterly]]></link>
 <average_rating>3.93</average_rating>
-<ratings_count>63429</ratings_count>
-<text_reviews_count>8370</text_reviews_count>
+<ratings_count>64136</ratings_count>
+<text_reviews_count>8441</text_reviews_count>
 </author>
 </authors>
   <published>2016</published>
@@ -470,7 +774,7 @@
   <id type="integer">378</id>
   <isbn>0394820371</isbn>
   <isbn13>9780394820378</isbn13>
-  <text_reviews_count type="integer">8094</text_reviews_count>
+  <text_reviews_count type="integer">8119</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.gCH00i62rcHJG1kltdJRNw</uri>
   <title>The Phantom Tollbooth</title>
   <title_without_series>The Phantom Tollbooth</title_without_series>
@@ -486,8 +790,8 @@
   <publication_year>1996</publication_year>
   <publication_month/>
   <average_rating>4.21</average_rating>
-  <ratings_count>210853</ratings_count>
-  <description>&lt;i&gt;Librarian's Note: For an alternate cover edition of the same ISBN, click &lt;a href="https://www.goodreads.com/book/show/33555595-the-phantom-tollbooth" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Hailed as ìa classic. . . . humorous, full of warmth and real inventionî (The New Yorker), this beloved story -first published more than fifty years ago- introduces readers to Milo and his adventures in the Lands Beyond. &lt;br /&gt;&lt;br /&gt;For Milo, everythingís a bore. When a tollbooth mysteriously appears in his room, he drives through only because heís got nothing better to do. But on the other side, things seem different. Milo visits the Island of Conclusions (you get there by jumping), learns about time from a ticking watchdog named Tock, and even embarks on a quest to rescue Rhyme and Reason! Somewhere along the way, Milo realizes something astonishing. Life is far from dull. In fact, itís exciting beyond his wildest dreams. . . .</description>
+  <ratings_count>211571</ratings_count>
+  <description>&lt;i&gt;Librarian's Note: For an alternate cover edition of the same ISBN, click &lt;a href="https://www.goodreads.com/book/show/33555595-the-phantom-tollbooth" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Hailed as ‚Äúa classic. . . . humorous, full of warmth and real invention‚Äù (The New Yorker), this beloved story -first published more than fifty years ago- introduces readers to Milo and his adventures in the Lands Beyond. &lt;br /&gt;&lt;br /&gt;For Milo, everything‚Äôs a bore. When a tollbooth mysteriously appears in his room, he drives through only because he‚Äôs got nothing better to do. But on the other side, things seem different. Milo visits the Island of Conclusions (you get there by jumping), learns about time from a ticking watchdog named Tock, and even embarks on a quest to rescue Rhyme and Reason! Somewhere along the way, Milo realizes something astonishing. Life is far from dull. In fact, it‚Äôs exciting beyond his wildest dreams. . . .</description>
 <authors>
 <author>
 <id>214</id>
@@ -501,8 +805,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/214.Norton_Juster]]></link>
 <average_rating>4.20</average_rating>
-<ratings_count>222887</ratings_count>
-<text_reviews_count>10756</text_reviews_count>
+<ratings_count>223620</ratings_count>
+<text_reviews_count>10794</text_reviews_count>
 </author>
 </authors>
   <published>1996</published>
@@ -546,7 +850,7 @@
   <id type="integer">34484</id>
   <isbn>0552152978</isbn>
   <isbn13>9780552152976</isbn13>
-  <text_reviews_count type="integer">1587</text_reviews_count>
+  <text_reviews_count type="integer">1595</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.gsWMTxgvcNupGyH7ANmu-A</uri>
   <title>Small Gods (Discworld, #13)</title>
   <title_without_series>Small Gods</title_without_series>
@@ -562,7 +866,7 @@
   <publication_year>2005</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.29</average_rating>
-  <ratings_count>89947</ratings_count>
+  <ratings_count>90206</ratings_count>
   <description>Just because you can't explain it, doesn't mean it's a miracle.' Religion is a controversial business in the Discworld. Everyone has their own opinion, and indeed their own gods. Who come in all shapes and sizes. In such a competitive environment, there is a pressing need to make one's presence felt. And it's certainly not remotely helpful to be reduced to be appearing in the form of a tortoise, a manifestation far below god-like status in anyone's book. In such instances, you need an acolyte, and fast. Preferably one who won't ask too many questions...</description>
 <authors>
 <author>
@@ -577,8 +881,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2005</published>
@@ -622,7 +926,7 @@
   <id type="integer">37903770</id>
   <isbn>0393356183</isbn>
   <isbn13>9780393356182</isbn13>
-  <text_reviews_count type="integer">2799</text_reviews_count>
+  <text_reviews_count type="integer">2955</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.aEZknmOMH49f3MnU0HmJjQ</uri>
   <title>Norse Mythology</title>
   <title_without_series>Norse Mythology</title_without_series>
@@ -638,8 +942,8 @@
   <publication_year>2018</publication_year>
   <publication_month>3</publication_month>
   <average_rating>4.10</average_rating>
-  <ratings_count>127556</ratings_count>
-  <description>Neil Gaiman, long inspired by ancient mythology in creating the fantastical realms of his fiction, presents a bravura rendition of the Norse gods and their world from their origin though their upheaval in Ragnarok. &lt;br /&gt;&lt;br /&gt;In &lt;em&gt;Norse Mythology&lt;/em&gt;, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odinís son, incredibly strong yet not the wisest of gods; and Lokióson of a giantóblood brother to Odin and a trickster and unsurpassable manipulator.&lt;br /&gt;&lt;br /&gt;Gaiman fashions these primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds and delves into the exploits of deities, dwarfs, and giants. Through Gaimanís deft and witty prose, these gods emerge with their fiercely competitive natures, their susceptibility to being duped and to duping others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.</description>
+  <ratings_count>130370</ratings_count>
+  <description>Neil Gaiman, long inspired by ancient mythology in creating the fantastical realms of his fiction, presents a bravura rendition of the Norse gods and their world from their origin though their upheaval in Ragnarok. &lt;br /&gt;&lt;br /&gt;In &lt;em&gt;Norse Mythology&lt;/em&gt;, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odin‚Äôs son, incredibly strong yet not the wisest of gods; and Loki‚Äîson of a giant‚Äîblood brother to Odin and a trickster and unsurpassable manipulator.&lt;br /&gt;&lt;br /&gt;Gaiman fashions these primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds and delves into the exploits of deities, dwarfs, and giants. Through Gaiman‚Äôs deft and witty prose, these gods emerge with their fiercely competitive natures, their susceptibility to being duped and to duping others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.</description>
 <authors>
 <author>
 <id>1221698</id>
@@ -653,8 +957,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
 <average_rating>4.13</average_rating>
-<ratings_count>5089497</ratings_count>
-<text_reviews_count>300609</text_reviews_count>
+<ratings_count>5111842</ratings_count>
+<text_reviews_count>302266</text_reviews_count>
 </author>
 </authors>
   <published>2018</published>
@@ -698,7 +1002,7 @@
   <id type="integer">41637836</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">133</text_reviews_count>
+  <text_reviews_count type="integer">150</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.TuimIhkQlW1Y5js2taP6bQ</uri>
   <title>The Subtle Knife (His Dark Materials, #2)</title>
   <title_without_series>The Subtle Knife</title_without_series>
@@ -714,8 +1018,8 @@
   <publication_year>2018</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.12</average_rating>
-  <ratings_count>304345</ratings_count>
-  <description>ASIN moved from &lt;a href="https://www.goodreads.com/book/show/24963098-the-subtle-knife" rel="nofollow"&gt; this edition&lt;/a&gt;&lt;br /&gt;The second instalment in Philip Pullmanís His Dark Materials trilogy, join Lyra as her terrifying journey continues.&lt;br /&gt;&lt;br /&gt;-----&lt;br /&gt;&lt;br /&gt;She had asked: What is he? A friend or an enemy?&lt;br /&gt;&lt;br /&gt;The alethiometer answered: He is a murderer.&lt;br /&gt;&lt;br /&gt;When she saw the answer, she relaxed at once.&lt;br /&gt;&lt;br /&gt;Lyra finds herself in a shimmering, haunted otherworld ñ Citt‡gazze, where soul-eating Spectres stalk the streets and wingbeats of distant angels sound against the sky.&lt;br /&gt;&lt;br /&gt;But she is not without allies: twelve-year-old Will Parry, fleeing for his life after taking another's, has also stumbled into this strange new realm.&lt;br /&gt;&lt;br /&gt;On a perilous journey from world to world, Lyra and Will uncover a deadly secret: an object of extraordinary and devastating power.&lt;br /&gt;&lt;br /&gt;And with every step, they move closer to an even greater threat ñ and the shattering truth of their own destiny.</description>
+  <ratings_count>305169</ratings_count>
+  <description>ASIN moved from &lt;a href="https://www.goodreads.com/book/show/24963098-the-subtle-knife" rel="nofollow"&gt; this edition&lt;/a&gt;&lt;br /&gt;The second instalment in Philip Pullman‚Äôs His Dark Materials trilogy, join Lyra as her terrifying journey continues.&lt;br /&gt;&lt;br /&gt;-----&lt;br /&gt;&lt;br /&gt;She had asked: What is he? A friend or an enemy?&lt;br /&gt;&lt;br /&gt;The alethiometer answered: He is a murderer.&lt;br /&gt;&lt;br /&gt;When she saw the answer, she relaxed at once.&lt;br /&gt;&lt;br /&gt;Lyra finds herself in a shimmering, haunted otherworld ‚Äì Citt√†gazze, where soul-eating Spectres stalk the streets and wingbeats of distant angels sound against the sky.&lt;br /&gt;&lt;br /&gt;But she is not without allies: twelve-year-old Will Parry, fleeing for his life after taking another's, has also stumbled into this strange new realm.&lt;br /&gt;&lt;br /&gt;On a perilous journey from world to world, Lyra and Will uncover a deadly secret: an object of extraordinary and devastating power.&lt;br /&gt;&lt;br /&gt;And with every step, they move closer to an even greater threat ‚Äì and the shattering truth of their own destiny.</description>
 <authors>
 <author>
 <id>3618</id>
@@ -729,8 +1033,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
 <average_rating>4.01</average_rating>
-<ratings_count>1989831</ratings_count>
-<text_reviews_count>52860</text_reviews_count>
+<ratings_count>1996575</ratings_count>
+<text_reviews_count>53096</text_reviews_count>
 </author>
 </authors>
   <published>2018</published>
@@ -774,7 +1078,7 @@
   <id type="integer">12067</id>
   <isbn>0060853980</isbn>
   <isbn13>9780060853983</isbn13>
-  <text_reviews_count type="integer">13302</text_reviews_count>
+  <text_reviews_count type="integer">13428</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.7RUNqxz5r2etxmmOQNCR6g</uri>
   <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</title>
   <title_without_series>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</title_without_series>
@@ -790,8 +1094,8 @@
   <publication_year>2006</publication_year>
   <publication_month>11</publication_month>
   <average_rating>4.25</average_rating>
-  <ratings_count>390612</ratings_count>
-  <description>&lt;i&gt;An alternative cover for this ISBN can be found &lt;a href="https://www.goodreads.com/book/show/13418329-good-omens" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;According to &lt;i&gt;The Nice and Accurate Prophecies of Agnes Nutter&lt;/i&gt;, &lt;i&gt;Witch&lt;/i&gt; (the world's only &lt;i&gt;completely&lt;/i&gt; accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.&lt;br /&gt;&lt;br /&gt;So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demonóboth of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyleóare not actually looking forward to the coming Rapture.&lt;br /&gt;&lt;br /&gt;And someone seems to have misplaced the Antichrist . . . </description>
+  <ratings_count>392671</ratings_count>
+  <description>&lt;i&gt;An alternative cover for this ISBN can be found &lt;a href="https://www.goodreads.com/book/show/13418329-good-omens" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;According to &lt;i&gt;The Nice and Accurate Prophecies of Agnes Nutter&lt;/i&gt;, &lt;i&gt;Witch&lt;/i&gt; (the world's only &lt;i&gt;completely&lt;/i&gt; accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.&lt;br /&gt;&lt;br /&gt;So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon‚Äîboth of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle‚Äîare not actually looking forward to the coming Rapture.&lt;br /&gt;&lt;br /&gt;And someone seems to have misplaced the Antichrist . . . </description>
 <authors>
 <author>
 <id>1654</id>
@@ -805,8 +1109,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -850,7 +1154,7 @@
   <id type="integer">40961427</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">1924</text_reviews_count>
+  <text_reviews_count type="integer">2120</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.zhUOQmSWRGKlQ7eRG3QkRw</uri>
   <title>1984</title>
   <title_without_series>1984</title_without_series>
@@ -866,7 +1170,7 @@
   <publication_year>2013</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.17</average_rating>
-  <ratings_count>2489367</ratings_count>
+  <ratings_count>2501991</ratings_count>
   <description>&lt;i&gt;Alternate cover edition of ASIN B003JTHWKU&lt;br /&gt;For previous cover edition see &lt;a href="https://www.goodreads.com/book/show/9577857-1984" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Among the seminal texts of the 20th century, &lt;i&gt;Nineteen Eighty-Four&lt;/i&gt; is a rare work that grows more haunting as its futuristic purgatory becomes more real. Published in 1949, the book offers political satirist George Orwell's nightmarish vision of a totalitarian, bureaucratic world and one poor stiff's attempt to find individuality. The brilliance of the novel is Orwell's prescience of modern life--the ubiquity of television, the distortion of the language--and his ability to construct such a thorough version of hell. Required reading for students since it was published, it ranks among the most terrifying novels ever written.</description>
 <authors>
 <author>
@@ -881,8 +1185,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
 <average_rating>4.05</average_rating>
-<ratings_count>5106626</ratings_count>
-<text_reviews_count>113228</text_reviews_count>
+<ratings_count>5128853</ratings_count>
+<text_reviews_count>113852</text_reviews_count>
 </author>
 </authors>
   <published>2013</published>
@@ -926,7 +1230,7 @@
   <id type="integer">32191710</id>
   <isbn>0393609391</isbn>
   <isbn13>9780393609394</isbn13>
-  <text_reviews_count type="integer">6545</text_reviews_count>
+  <text_reviews_count type="integer">6649</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.Bm7sNShFdlWjSyYv1se5vw</uri>
   <title>Astrophysics for People in a Hurry</title>
   <title_without_series>Astrophysics for People in a Hurry</title_without_series>
@@ -942,8 +1246,8 @@
   <publication_year>2017</publication_year>
   <publication_month>5</publication_month>
   <average_rating>4.12</average_rating>
-  <ratings_count>65523</ratings_count>
-  <description>What is the nature of space and time? How do we fit within the universe? How does the universe fit within us? Thereís no better guide through these mind-expanding questions than acclaimed astrophysicist and best-selling author Neil deGrasse Tyson.&lt;br /&gt;&lt;br /&gt;But today, few of us have time to contemplate the cosmos. So Tyson brings the universe down to Earth succinctly and clearly, with sparkling wit, in tasty chapters consumable anytime and anywhere in your busy day.</description>
+  <ratings_count>66747</ratings_count>
+  <description>What is the nature of space and time? How do we fit within the universe? How does the universe fit within us? There‚Äôs no better guide through these mind-expanding questions than acclaimed astrophysicist and best-selling author Neil deGrasse Tyson.&lt;br /&gt;&lt;br /&gt;But today, few of us have time to contemplate the cosmos. So Tyson brings the universe down to Earth succinctly and clearly, with sparkling wit, in tasty chapters consumable anytime and anywhere in your busy day.</description>
 <authors>
 <author>
 <id>12855</id>
@@ -957,8 +1261,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/12855.Neil_deGrasse_Tyson]]></link>
 <average_rating>4.10</average_rating>
-<ratings_count>113656</ratings_count>
-<text_reviews_count>11635</text_reviews_count>
+<ratings_count>115207</ratings_count>
+<text_reviews_count>11802</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -1002,7 +1306,7 @@
   <id type="integer">2442</id>
   <isbn>0061020613</isbn>
   <isbn13>9780061020612</isbn13>
-  <text_reviews_count type="integer">1136</text_reviews_count>
+  <text_reviews_count type="integer">1141</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.Lzsv2iXRjlJQbk10eHblew</uri>
   <title>Witches Abroad (Discworld, #12; Witches #3)</title>
   <title_without_series>Witches Abroad</title_without_series>
@@ -1018,8 +1322,8 @@
   <publication_year>2002</publication_year>
   <publication_month>7</publication_month>
   <average_rating>4.22</average_rating>
-  <ratings_count>62752</ratings_count>
-  <description>Be careful what you wish for...&lt;br /&gt;&lt;br /&gt;Once upon a time there was a fairy godmother named Desiderata who had a good heart, a wise head, and poor planning skillsówhich unfortunately left the Princess Emberella in the care of her &lt;em&gt;other&lt;/em&gt; (not quite so good and wise) godmother when DEATH came for Desiderata. So now it's up to Magrat Garlick, Granny Weatherwax, and Nanny Ogg to hop on broomsticks and make for far-distant Genua to ensure the servant girl &lt;em&gt;doesn't&lt;/em&gt; marry the Prince.&lt;br /&gt;&lt;br /&gt;But the road to Genua is bumpy, and along the way the trio of witches encounters the occasional vampire, werewolf, and falling house (well this is a &lt;em&gt;fairy tale&lt;/em&gt;, after all). The trouble really begins once these reluctant foster-godmothers arrive in Genua and must outwit their power-hungry counterpart who'll stop at nothing to achieve a proper "happy ending"óeven if it means destroying a kingdom.</description>
+  <ratings_count>62950</ratings_count>
+  <description>Be careful what you wish for...&lt;br /&gt;&lt;br /&gt;Once upon a time there was a fairy godmother named Desiderata who had a good heart, a wise head, and poor planning skills‚Äîwhich unfortunately left the Princess Emberella in the care of her &lt;em&gt;other&lt;/em&gt; (not quite so good and wise) godmother when DEATH came for Desiderata. So now it's up to Magrat Garlick, Granny Weatherwax, and Nanny Ogg to hop on broomsticks and make for far-distant Genua to ensure the servant girl &lt;em&gt;doesn't&lt;/em&gt; marry the Prince.&lt;br /&gt;&lt;br /&gt;But the road to Genua is bumpy, and along the way the trio of witches encounters the occasional vampire, werewolf, and falling house (well this is a &lt;em&gt;fairy tale&lt;/em&gt;, after all). The trouble really begins once these reluctant foster-godmothers arrive in Genua and must outwit their power-hungry counterpart who'll stop at nothing to achieve a proper "happy ending"‚Äîeven if it means destroying a kingdom.</description>
 <authors>
 <author>
 <id>1654</id>
@@ -1033,8 +1337,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2002</published>
@@ -1078,7 +1382,7 @@
   <id type="integer">119322</id>
   <isbn>0679879242</isbn>
   <isbn13>9780679879244</isbn13>
-  <text_reviews_count type="integer">12915</text_reviews_count>
+  <text_reviews_count type="integer">12940</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.oNiecDQ9-Jdo4cl8NKpegA</uri>
   <title>The Golden Compass (His Dark Materials, #1)</title>
   <title_without_series>The Golden Compass</title_without_series>
@@ -1094,7 +1398,7 @@
   <publication_year>1996</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.96</average_rating>
-  <ratings_count>1109746</ratings_count>
+  <ratings_count>1112852</ratings_count>
   <description>Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal--including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world.&lt;br /&gt;&lt;br /&gt;Can one small girl make a difference in such great and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce and true a champion as Roger or Asriel could want--but what Lyra doesn't know is that to help one of them will be to betray the other.</description>
 <authors>
 <author>
@@ -1109,8 +1413,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
 <average_rating>4.01</average_rating>
-<ratings_count>1989831</ratings_count>
-<text_reviews_count>52860</text_reviews_count>
+<ratings_count>1996575</ratings_count>
+<text_reviews_count>53096</text_reviews_count>
 </author>
 </authors>
   <published>1996</published>
@@ -1154,7 +1458,7 @@
   <id type="integer">10357575</id>
   <isbn>0307593312</isbn>
   <isbn13>9780307593313</isbn13>
-  <text_reviews_count type="integer">12929</text_reviews_count>
+  <text_reviews_count type="integer">12963</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.2jEVf_kdIg3ZTFQ83IFijQ</uri>
   <title>1Q84</title>
   <title_without_series>1Q84</title_without_series>
@@ -1170,8 +1474,8 @@
   <publication_year>2011</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.91</average_rating>
-  <ratings_count>164416</ratings_count>
-  <description>&lt;b&gt;The year is 1984 and the city is Tokyo.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;A young woman named Aomame follows a taxi driverís enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 óìQ is for ëquestion mark.í A world that bears a question.î Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled. &lt;br /&gt;&lt;br /&gt;As Aomameís and Tengoís narratives converge over the course of this single year, we learn of the profound and tangled connections that bind them ever closer: a beautiful, dyslexic teenage girl with a unique vision; a mysterious religious cult that instigated a shoot-out with the metropolitan police; a reclusive, wealthy dowager who runs a shelter for abused women; a hideously ugly private investigator; a mild-mannered yet ruthlessly efficient bodyguard; and a peculiarly insistent television-fee collector.&lt;br /&gt;&lt;br /&gt;A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwellís ó &lt;i&gt;1Q84&lt;/i&gt; is Haruki Murakamiís most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers.</description>
+  <ratings_count>165148</ratings_count>
+  <description>&lt;b&gt;The year is 1984 and the city is Tokyo.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;A young woman named Aomame follows a taxi driver‚Äôs enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 ‚Äî‚ÄúQ is for ‚Äòquestion mark.‚Äô A world that bears a question.‚Äù Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled. &lt;br /&gt;&lt;br /&gt;As Aomame‚Äôs and Tengo‚Äôs narratives converge over the course of this single year, we learn of the profound and tangled connections that bind them ever closer: a beautiful, dyslexic teenage girl with a unique vision; a mysterious religious cult that instigated a shoot-out with the metropolitan police; a reclusive, wealthy dowager who runs a shelter for abused women; a hideously ugly private investigator; a mild-mannered yet ruthlessly efficient bodyguard; and a peculiarly insistent television-fee collector.&lt;br /&gt;&lt;br /&gt;A love story, a mystery, a fantasy, a novel of self-discovery, a dystopia to rival George Orwell‚Äôs ‚Äî &lt;i&gt;1Q84&lt;/i&gt; is Haruki Murakami‚Äôs most ambitious undertaking yet: an instant best seller in his native Japan, and a tremendous feat of imagination from one of our most revered contemporary writers.</description>
 <authors>
 <author>
 <id>3354</id>
@@ -1185,8 +1489,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
 <average_rating>3.95</average_rating>
-<ratings_count>1871387</ratings_count>
-<text_reviews_count>135923</text_reviews_count>
+<ratings_count>1883768</ratings_count>
+<text_reviews_count>136937</text_reviews_count>
 </author>
 </authors>
   <published>2011</published>
@@ -1230,7 +1534,7 @@
   <id type="integer">42119990</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">12</text_reviews_count>
+  <text_reviews_count type="integer">14</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.7lMlDT_PSq-0JgNQ18SF6w</uri>
   <title>The Big Disruption</title>
   <title_without_series>The Big Disruption</title_without_series>
@@ -1245,9 +1549,9 @@
   <publication_day/>
   <publication_year>2018</publication_year>
   <publication_month/>
-  <average_rating>3.54</average_rating>
-  <ratings_count>80</ratings_count>
-  <description>A Totally Fictional But Essentially True Silicon Valley Story. Medium's first full-length novel, accessible exclusively on Medium website or app.&lt;br /&gt;&lt;br /&gt;"Something is fishy at Anahataóand itís not just the giant squid that serves as a mascot for the worldís largest tech company. A prince in exile is working as a product manager. The sales guys are battling with the engineers. The female employees are the unwitting subjects of a wild social experiment. The VPs are plotting against each other. And the yoga-loving, sex-obsessed CEO is rumored to be planning a moon colony, sending his investors into a tizzy. Is it all downhill from here? Or is this just the beginning of a bold new phase in Anahataís quest for global domination?"</description>
+  <average_rating>3.56</average_rating>
+  <ratings_count>84</ratings_count>
+  <description>A Totally Fictional But Essentially True Silicon Valley Story. Medium's first full-length novel, accessible exclusively on Medium website or app.&lt;br /&gt;&lt;br /&gt;"Something is fishy at Anahata‚Äîand it‚Äôs not just the giant squid that serves as a mascot for the world‚Äôs largest tech company. A prince in exile is working as a product manager. The sales guys are battling with the engineers. The female employees are the unwitting subjects of a wild social experiment. The VPs are plotting against each other. And the yoga-loving, sex-obsessed CEO is rumored to be planning a moon colony, sending his investors into a tizzy. Is it all downhill from here? Or is this just the beginning of a bold new phase in Anahata‚Äôs quest for global domination?"</description>
 <authors>
 <author>
 <id>372559</id>
@@ -1261,8 +1565,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/372559.Jessica_Powell]]></link>
 <average_rating>3.81</average_rating>
-<ratings_count>178</ratings_count>
-<text_reviews_count>36</text_reviews_count>
+<ratings_count>183</ratings_count>
+<text_reviews_count>38</text_reviews_count>
 </author>
 </authors>
   <published>2018</published>
@@ -1322,8 +1626,8 @@
   <publication_year>2013</publication_year>
   <publication_month>7</publication_month>
   <average_rating>3.65</average_rating>
-  <ratings_count>2774</ratings_count>
-  <description>&lt;b&gt;A star-studded urban fantasy anthology featuring bestselling authors Rachel Caine, Rob Thurman, Seanan McGuire, Jennifer Estep, and Kevin Hearne, whose stories explore the creepy, mysterious, and, yes, sometimes magical world of traveling carnivals.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The traveling carnival is a leftover of a bygone era, a curiosity lurking on the outskirts of town. It is a place of contradictionsóthe bright lights mask the peeling paint; a carnie in greasy overalls slinks away from the direction of the Barkerís seductive call. It is a place of illusionóis that womanís beard real? How can she live locked in that watery box?&lt;br /&gt;&lt;br /&gt;And while many are tricked by sleight of hand, there are hints of something truly magical going on. One must remain alert and learn quickly the unwritten rules of this dark show. To beat the carnival, one had better have either a whole lot of luck or a whole lot of gunsóor maybe some magic of oneís own.&lt;br /&gt;&lt;br /&gt;Featuring stories grotesque and comical, outrageous and action-packed, &lt;i&gt;Carniepunk&lt;/i&gt; is the first anthology to channel the energy and attitude of urban fantasy into the bizarre world of creaking machinery, twisted myths, and vivid new magic.&lt;br /&gt;&lt;br /&gt;RACHEL CAINEís vampires arenít childís play, as a naÔve teen discovers when her heart leads her far, far astray in ìThe Cold Girl.î With ìParlor Tricks,î JENNIFER ESTEP pits Gin Blanco, the Elemental Assassin, against the Wheel of Death and some dangerously creepy clowns. SEANAN McGUIRE narrates a poignant, ethereal tale of a mysterious carnival that returns to a dangerous town after twenty years in ìDaughter of the Midway, the Mermaid, and the Open, Lonely Sea.î KEVIN HEARNEís Iron Druid and his wisecracking Irish wolfhound discover in ìThe Demon Barker of Wheat Streetî that the impossibly wholesome sounding Kansas Wheat Festival is actually not a healthy place to hang out. With an eerie, unpredictable twist, ROB THURMAN reveals the fate of a psychopath stalking two young carnies in ìPainted Love.î</description>
+  <ratings_count>2786</ratings_count>
+  <description>&lt;b&gt;A star-studded urban fantasy anthology featuring bestselling authors Rachel Caine, Rob Thurman, Seanan McGuire, Jennifer Estep, and Kevin Hearne, whose stories explore the creepy, mysterious, and, yes, sometimes magical world of traveling carnivals.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The traveling carnival is a leftover of a bygone era, a curiosity lurking on the outskirts of town. It is a place of contradictions‚Äîthe bright lights mask the peeling paint; a carnie in greasy overalls slinks away from the direction of the Barker‚Äôs seductive call. It is a place of illusion‚Äîis that woman‚Äôs beard real? How can she live locked in that watery box?&lt;br /&gt;&lt;br /&gt;And while many are tricked by sleight of hand, there are hints of something truly magical going on. One must remain alert and learn quickly the unwritten rules of this dark show. To beat the carnival, one had better have either a whole lot of luck or a whole lot of guns‚Äîor maybe some magic of one‚Äôs own.&lt;br /&gt;&lt;br /&gt;Featuring stories grotesque and comical, outrageous and action-packed, &lt;i&gt;Carniepunk&lt;/i&gt; is the first anthology to channel the energy and attitude of urban fantasy into the bizarre world of creaking machinery, twisted myths, and vivid new magic.&lt;br /&gt;&lt;br /&gt;RACHEL CAINE‚Äôs vampires aren‚Äôt child‚Äôs play, as a na√Øve teen discovers when her heart leads her far, far astray in ‚ÄúThe Cold Girl.‚Äù With ‚ÄúParlor Tricks,‚Äù JENNIFER ESTEP pits Gin Blanco, the Elemental Assassin, against the Wheel of Death and some dangerously creepy clowns. SEANAN McGUIRE narrates a poignant, ethereal tale of a mysterious carnival that returns to a dangerous town after twenty years in ‚ÄúDaughter of the Midway, the Mermaid, and the Open, Lonely Sea.‚Äù KEVIN HEARNE‚Äôs Iron Druid and his wisecracking Irish wolfhound discover in ‚ÄúThe Demon Barker of Wheat Street‚Äù that the impossibly wholesome sounding Kansas Wheat Festival is actually not a healthy place to hang out. With an eerie, unpredictable twist, ROB THURMAN reveals the fate of a psychopath stalking two young carnies in ‚ÄúPainted Love.‚Äù</description>
 <authors>
 <author>
 <id>15292</id>
@@ -1337,8 +1641,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/15292.Rachel_Caine]]></link>
 <average_rating>4.09</average_rating>
-<ratings_count>904574</ratings_count>
-<text_reviews_count>48061</text_reviews_count>
+<ratings_count>906809</ratings_count>
+<text_reviews_count>48193</text_reviews_count>
 </author>
 </authors>
   <published>2013</published>
@@ -1382,7 +1686,7 @@
   <id type="integer">40874032</id>
   <isbn nil="true"/>
   <isbn13 nil="true"/>
-  <text_reviews_count type="integer">1564</text_reviews_count>
+  <text_reviews_count type="integer">1698</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.Z3hx1QP9xTvd-Xk9t3pZiw</uri>
   <title>Vicious (Villains, #1)</title>
   <title_without_series>Vicious</title_without_series>
@@ -1398,8 +1702,8 @@
   <publication_year>2013</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.28</average_rating>
-  <ratings_count>53649</ratings_count>
-  <description>Victor and Eli started out as college roommatesóbrilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong. &lt;br /&gt;&lt;br /&gt;Ten years later, Victor breaks out of prison, determined to catch up to his old friend (now foe), aided by a young girl whose reserved nature obscures a stunning ability. Meanwhile, Eli is on a mission to eradicate every other super-powered person that he can findóaside from his sidekick, an enigmatic woman with an unbreakable will. Armed with terrible power on both sides, driven by the memory of betrayal and loss, the archnemeses have set a course for revengeóbut who will be left alive at the end?</description>
+  <ratings_count>55061</ratings_count>
+  <description>Victor and Eli started out as college roommates‚Äîbrilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong. &lt;br /&gt;&lt;br /&gt;Ten years later, Victor breaks out of prison, determined to catch up to his old friend (now foe), aided by a young girl whose reserved nature obscures a stunning ability. Meanwhile, Eli is on a mission to eradicate every other super-powered person that he can find‚Äîaside from his sidekick, an enigmatic woman with an unbreakable will. Armed with terrible power on both sides, driven by the memory of betrayal and loss, the archnemeses have set a course for revenge‚Äîbut who will be left alive at the end?</description>
 <authors>
 <author>
 <id>7168230</id>
@@ -1413,8 +1717,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7168230.V_E_Schwab]]></link>
 <average_rating>4.22</average_rating>
-<ratings_count>323159</ratings_count>
-<text_reviews_count>52233</text_reviews_count>
+<ratings_count>329104</ratings_count>
+<text_reviews_count>53058</text_reviews_count>
 </author>
 </authors>
   <published>2013</published>
@@ -1458,7 +1762,7 @@
   <id type="integer">11297</id>
   <isbn>0375704027</isbn>
   <isbn13>9780375704024</isbn13>
-  <text_reviews_count type="integer">10570</text_reviews_count>
+  <text_reviews_count type="integer">10646</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.AlP6ID8bNidEco9FBwNaNA</uri>
   <title>Norwegian Wood</title>
   <title_without_series>Norwegian Wood</title_without_series>
@@ -1474,8 +1778,8 @@
   <publication_year>2000</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.03</average_rating>
-  <ratings_count>264805</ratings_count>
-  <description>Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before.†Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable. As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman.&lt;br /&gt;&lt;br /&gt;A poignant story of one college student's romantic coming-of-age, &lt;i&gt;Norwegian Wood&lt;/i&gt; takes us to that distant place of a young man's first, hopeless, and heroic love.&lt;br /&gt;&lt;br /&gt;</description>
+  <ratings_count>266512</ratings_count>
+  <description>Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before.¬†Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable. As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman.&lt;br /&gt;&lt;br /&gt;A poignant story of one college student's romantic coming-of-age, &lt;i&gt;Norwegian Wood&lt;/i&gt; takes us to that distant place of a young man's first, hopeless, and heroic love.&lt;br /&gt;&lt;br /&gt;</description>
 <authors>
 <author>
 <id>3354</id>
@@ -1489,8 +1793,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
 <average_rating>3.95</average_rating>
-<ratings_count>1871387</ratings_count>
-<text_reviews_count>135923</text_reviews_count>
+<ratings_count>1883768</ratings_count>
+<text_reviews_count>136937</text_reviews_count>
 </author>
 </authors>
   <published>2000</published>
@@ -1534,7 +1838,7 @@
   <id type="integer">29868610</id>
   <isbn>1501117203</isbn>
   <isbn13>9781501117206</isbn13>
-  <text_reviews_count type="integer">5531</text_reviews_count>
+  <text_reviews_count type="integer">5562</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.SYBiIF4CB_dwXUbsbh5qrA</uri>
   <title>Scrappy Little Nobody</title>
   <title_without_series>Scrappy Little Nobody</title_without_series>
@@ -1545,13 +1849,13 @@
   <num_pages>275</num_pages>
   <format>Hardcover</format>
   <edition_information/>
-  <publisher>Touchstone</publisher>
+  <publisher>Gallery Books</publisher>
   <publication_day>15</publication_day>
   <publication_year>2016</publication_year>
   <publication_month>11</publication_month>
   <average_rating>3.90</average_rating>
-  <ratings_count>56134</ratings_count>
-  <description>A collection of humorous autobiographical essays by the Academy Award-nominated actress and star of &lt;i&gt;Up in the Air&lt;/i&gt; and &lt;i&gt;Pitch Perfect&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Even before she made a name for herself on the silver screen starring in films like &lt;i&gt;Pitch Perfect&lt;/i&gt;, &lt;i&gt;Up in the Air&lt;/i&gt;, &lt;i&gt;Twilight&lt;/i&gt;, and &lt;i&gt;Into the Woods&lt;/i&gt;, Anna Kendrick was unusually small, weird, and ì10 percent defiant.î&lt;br /&gt;&lt;br /&gt;At the ripe age of thirteen, she had already resolved to ìkeep the crazy inside my head where it belonged. Forever. But hereís the thing about crazy: It. Wants. Out.î In &lt;i&gt;Scrappy Little Nobody&lt;/i&gt;, she invites readers inside her brain, sharing extraordinary and charmingly ordinary stories with candor and winningly wry observations.&lt;br /&gt;&lt;br /&gt;With her razor-sharp wit, Anna recounts the absurdities sheís experienced on her way to and from the heart of pop culture as only she canófrom her unusual path to the performing arts (Vanilla Ice and baggy neon pants may have played a role) to her double life as a middle-school student who also starred on Broadway to her initial ìdating experimentsî (including only liking boys who didnít like her back) to reviewing a binder full of butt doubles to her struggle to live like an adult woman instead of a perpetual ìman-child.î&lt;br /&gt;&lt;br /&gt;Enter Annaís world and follow her rise from ìscrappy little nobodyî to somebody who dazzles on the stage, the screen, and now the pageówith an electric, singular voice, at once familiar and surprising, sharp and sweet, funny and serious (well, not that serious).</description>
+  <ratings_count>56734</ratings_count>
+  <description>A collection of humorous autobiographical essays by the Academy Award-nominated actress and star of &lt;i&gt;Up in the Air&lt;/i&gt; and &lt;i&gt;Pitch Perfect&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Even before she made a name for herself on the silver screen starring in films like &lt;i&gt;Pitch Perfect&lt;/i&gt;, &lt;i&gt;Up in the Air&lt;/i&gt;, &lt;i&gt;Twilight&lt;/i&gt;, and &lt;i&gt;Into the Woods&lt;/i&gt;, Anna Kendrick was unusually small, weird, and ‚Äú10 percent defiant.‚Äù&lt;br /&gt;&lt;br /&gt;At the ripe age of thirteen, she had already resolved to ‚Äúkeep the crazy inside my head where it belonged. Forever. But here‚Äôs the thing about crazy: It. Wants. Out.‚Äù In &lt;i&gt;Scrappy Little Nobody&lt;/i&gt;, she invites readers inside her brain, sharing extraordinary and charmingly ordinary stories with candor and winningly wry observations.&lt;br /&gt;&lt;br /&gt;With her razor-sharp wit, Anna recounts the absurdities she‚Äôs experienced on her way to and from the heart of pop culture as only she can‚Äîfrom her unusual path to the performing arts (Vanilla Ice and baggy neon pants may have played a role) to her double life as a middle-school student who also starred on Broadway to her initial ‚Äúdating experiments‚Äù (including only liking boys who didn‚Äôt like her back) to reviewing a binder full of butt doubles to her struggle to live like an adult woman instead of a perpetual ‚Äúman-child.‚Äù&lt;br /&gt;&lt;br /&gt;Enter Anna‚Äôs world and follow her rise from ‚Äúscrappy little nobody‚Äù to somebody who dazzles on the stage, the screen, and now the page‚Äîwith an electric, singular voice, at once familiar and surprising, sharp and sweet, funny and serious (well, not that serious).</description>
 <authors>
 <author>
 <id>7041930</id>
@@ -1565,8 +1869,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7041930.Anna_Kendrick]]></link>
 <average_rating>3.90</average_rating>
-<ratings_count>56235</ratings_count>
-<text_reviews_count>6528</text_reviews_count>
+<ratings_count>56837</ratings_count>
+<text_reviews_count>6571</text_reviews_count>
 </author>
 </authors>
   <published>2016</published>
@@ -1610,7 +1914,7 @@
   <id type="integer">16085481</id>
   <isbn>0385536976</isbn>
   <isbn13>9780385536974</isbn13>
-  <text_reviews_count type="integer">14977</text_reviews_count>
+  <text_reviews_count type="integer">15310</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.q_fS_UA8s5PGyy4KUcqhtA</uri>
   <title>Crazy Rich Asians (Crazy Rich Asians, #1)</title>
   <title_without_series>Crazy Rich Asians</title_without_series>
@@ -1626,7 +1930,7 @@
   <publication_year>2013</publication_year>
   <publication_month>6</publication_month>
   <average_rating>3.83</average_rating>
-  <ratings_count>196026</ratings_count>
+  <ratings_count>201494</ratings_count>
   <description>When Rachel Chu agrees to spend the summer in Singapore with her boyfriend, Nicholas Young, she envisions a humble family home, long drives to explore the island, and quality time with the man she might one day marry. What she doesn't know is that Nick's family home happens to look like a palace, that she'll ride in more private planes than cars, and that with one of Asia's most eligible bachelors on her arm, Rachel might as well have a target on her back. &lt;br /&gt;&lt;br /&gt;Initiated into a world of dynastic splendor beyond imagination, Rachel meets Astrid, the It Girl of Singapore society; Eddie, whose family practically lives in the pages of the Hong Kong socialite magazines; and Eleanor, Nick's formidable mother, a woman who has very strong feelings about who her son should--and should not--marry.</description>
 <authors>
 <author>
@@ -1641,8 +1945,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/634694.Kevin_Kwan]]></link>
 <average_rating>3.85</average_rating>
-<ratings_count>331175</ratings_count>
-<text_reviews_count>30994</text_reviews_count>
+<ratings_count>341469</ratings_count>
+<text_reviews_count>31857</text_reviews_count>
 </author>
 </authors>
   <published>2013</published>
@@ -1686,7 +1990,7 @@
   <id type="integer">36439331</id>
   <isbn>1503900835</isbn>
   <isbn13>9781503900837</isbn13>
-  <text_reviews_count type="integer">150</text_reviews_count>
+  <text_reviews_count type="integer">156</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.pQEDfkmbt2LUVqXVigU4xA</uri>
   <title>Beautiful Exiles</title>
   <title_without_series>Beautiful Exiles</title_without_series>
@@ -1702,8 +2006,8 @@
   <publication_year>2018</publication_year>
   <publication_month>8</publication_month>
   <average_rating>3.67</average_rating>
-  <ratings_count>5245</ratings_count>
-  <description>&lt;b&gt;From &lt;i&gt;New York Times&lt;/i&gt; bestselling author Meg Waite Clayton comes a riveting novel based on one of the most volatile and intoxicating real-life love affairs of the twentieth century.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Key West, 1936. Headstrong, accomplished journalist Martha Gellhorn is confident with words but less so with men when she meets disheveled literary titan Ernest Hemingway in a dive bar. Their friendshipóforged over writing, talk, and family dinnersóflourishes into something undeniable in Madrid while theyíre covering the Spanish Civil War.&lt;br /&gt;&lt;br /&gt;Martha reveres him. The very married Hemingway is taken with Marthaóher beauty, her ambition, and her fearless spirit. And as Hemingway tells her, the most powerful love stories are always set against the fury of war. The risks are so much greater. Theyíre made for each other.&lt;br /&gt;&lt;br /&gt;With their romance unfolding as they travel the globe, Martha establishes herself as one of the worldís foremost war correspondents, and Hemingway begins the novel that will win him the Nobel Prize for Literature. &lt;i&gt;Beautiful Exiles&lt;/i&gt; is a stirring story of lovers and rivals, of the breathless attraction to power and fame, and of one womanóahead of her timeóclaiming her own identity from the wreckage of love.</description>
+  <ratings_count>5350</ratings_count>
+  <description>&lt;b&gt;From &lt;i&gt;New York Times&lt;/i&gt; bestselling author Meg Waite Clayton comes a riveting novel based on one of the most volatile and intoxicating real-life love affairs of the twentieth century.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Key West, 1936. Headstrong, accomplished journalist Martha Gellhorn is confident with words but less so with men when she meets disheveled literary titan Ernest Hemingway in a dive bar. Their friendship‚Äîforged over writing, talk, and family dinners‚Äîflourishes into something undeniable in Madrid while they‚Äôre covering the Spanish Civil War.&lt;br /&gt;&lt;br /&gt;Martha reveres him. The very married Hemingway is taken with Martha‚Äîher beauty, her ambition, and her fearless spirit. And as Hemingway tells her, the most powerful love stories are always set against the fury of war. The risks are so much greater. They‚Äôre made for each other.&lt;br /&gt;&lt;br /&gt;With their romance unfolding as they travel the globe, Martha establishes herself as one of the world‚Äôs foremost war correspondents, and Hemingway begins the novel that will win him the Nobel Prize for Literature. &lt;i&gt;Beautiful Exiles&lt;/i&gt; is a stirring story of lovers and rivals, of the breathless attraction to power and fame, and of one woman‚Äîahead of her time‚Äîclaiming her own identity from the wreckage of love.</description>
 <authors>
 <author>
 <id>1102395</id>
@@ -1717,8 +2021,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1102395.Meg_Waite_Clayton]]></link>
 <average_rating>3.52</average_rating>
-<ratings_count>23593</ratings_count>
-<text_reviews_count>3745</text_reviews_count>
+<ratings_count>23724</ratings_count>
+<text_reviews_count>3760</text_reviews_count>
 </author>
 </authors>
   <published>2018</published>
@@ -1762,7 +2066,7 @@
   <id type="integer">126669</id>
   <isbn>076790351X</isbn>
   <isbn13>9780767903516</isbn13>
-  <text_reviews_count type="integer">184</text_reviews_count>
+  <text_reviews_count type="integer">185</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.8mulw7GYNJNva2hI7F6HXQ</uri>
   <title>Beethoven's Hair: An Extraordinary Historical Odyssey and a Scientific Mystery Solved</title>
   <title_without_series>Beethoven's Hair: An Extraordinary Historical Odyssey and a Scientific Mystery Solved</title_without_series>
@@ -1778,7 +2082,7 @@
   <publication_year>2001</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.76</average_rating>
-  <ratings_count>1673</ratings_count>
+  <ratings_count>1678</ratings_count>
   <description>&lt;b&gt;The basis for the movie of the same name, an astonishing tale of one lock of hair and its amazing travels--from nineteenth-century Vienna to twenty-first-century America.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;When Ludwig van Beethoven lay dying in 1827, a young musician named Ferdinand Hiller came to pay his respects to the great composer, snipping a lock of Beethoven's hair as a keepsake--as was custom at the time--in the process. For a century, the lock of hair was a treasured Hiller family relic, until it somehow found its way to the town of Gilleleje, in Nazi-occupied Denmark. There, it was given to a local doctor, Kay Fremming, who was deeply involved in the effort to help save hundreds of hunted and frightened Jews.&lt;br /&gt;&lt;br /&gt;After Fremming's death, his daughter assumed ownership of the lock, and eventually consigned it for sale at Sotheby's, where two American Beethoven enthusiasts, Ira Brilliant and Che Guevara, purchased it in 1994. Subsequently, they and others instituted a series of complex forensic tests in the hope of finding the probable causes of the composer's chronically bad health, his deafness, and the final demise that Ferdinand Hiller had witnessed all those years ago. The results, revealed for the first time here, are the most compelling explanation yet offered for why one of the foremost musicians the world has ever known was forced to spend much of his life in silence.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Beethoven's Hair&lt;/i&gt;, Russell Martin has created a rich historical treasure hunt, a tale of false leads, amazing breakthroughs, and incredible revelations. This unique and fascinating book is a moving testament to the power of music, the lure of relics, the heroism of the Resistance movement, and the brilliance of molecular science.</description>
 <authors>
 <author>
@@ -1793,7 +2097,7 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/72788.Russell_Martin]]></link>
 <average_rating>3.78</average_rating>
-<ratings_count>2211</ratings_count>
+<ratings_count>2217</ratings_count>
 <text_reviews_count>301</text_reviews_count>
 </author>
 </authors>
@@ -1838,7 +2142,7 @@
   <id type="integer">34928122</id>
   <isbn>0553448129</isbn>
   <isbn13>9780553448122</isbn13>
-  <text_reviews_count type="integer">12470</text_reviews_count>
+  <text_reviews_count type="integer">12588</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.CW50TeMLphfW2paYhQ594A</uri>
   <title>Artemis</title>
   <title_without_series>Artemis</title_without_series>
@@ -1854,8 +2158,8 @@
   <publication_year>2017</publication_year>
   <publication_month>11</publication_month>
   <average_rating>3.67</average_rating>
-  <ratings_count>116418</ratings_count>
-  <description>Jazz Bashara is a criminal.&lt;br /&gt;&lt;br /&gt;Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.&lt;br /&gt;&lt;br /&gt;Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itselfóand that now, her only chance at survival lies in a gambit even riskier than the first.</description>
+  <ratings_count>118233</ratings_count>
+  <description>Jazz Bashara is a criminal.&lt;br /&gt;&lt;br /&gt;Well, sort of. Life on Artemis, the first and only city on the moon, is tough if you're not a rich tourist or an eccentric billionaire. So smuggling in the occasional harmless bit of contraband barely counts, right? Not when you've got debts to pay and your job as a porter barely covers the rent.&lt;br /&gt;&lt;br /&gt;Everything changes when Jazz sees the chance to commit the perfect crime, with a reward too lucrative to turn down. But pulling off the impossible is just the start of her problems, as she learns that she's stepped square into a conspiracy for control of Artemis itself‚Äîand that now, her only chance at survival lies in a gambit even riskier than the first.</description>
 <authors>
 <author>
 <id>6540057</id>
@@ -1869,8 +2173,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
 <average_rating>4.28</average_rating>
-<ratings_count>791150</ratings_count>
-<text_reviews_count>86411</text_reviews_count>
+<ratings_count>796964</ratings_count>
+<text_reviews_count>86752</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -1914,7 +2218,7 @@
   <id type="integer">32940838</id>
   <isbn>0316261254</isbn>
   <isbn13>9780316261258</isbn13>
-  <text_reviews_count type="integer">623</text_reviews_count>
+  <text_reviews_count type="integer">635</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.hn9ewXuuBJ266vuUXOWjYg</uri>
   <title>Underground Airlines</title>
   <title_without_series>Underground Airlines</title_without_series>
@@ -1930,7 +2234,7 @@
   <publication_year>2017</publication_year>
   <publication_month>7</publication_month>
   <average_rating>3.84</average_rating>
-  <ratings_count>19108</ratings_count>
+  <ratings_count>19263</ratings_count>
   <description>A young black man calling himself Victor has struck a bargain with federal law enforcement, working as a bounty hunter for the US Marshall Service in exchange for his freedom. He's got plenty of work. In this version of America, slavery continues in four states called "the Hard Four." On the trail of a runaway known as Jackdaw, Victor arrives in Indianapolis knowing that something isn't right--with the case file, with his work, and with the country itself.&lt;br /&gt; As he works to infiltrate the local cell of a abolitionist movement called the Underground Airlines, tracking Jackdaw through the back rooms of churches, empty parking garages, hotels, and medical offices, Victor believes he's hot on the trail. But his strange, increasingly uncanny pursuit is complicated by a boss who won't reveal the extraordinary stakes of Jackdaw's case, as well as by a heartbreaking young woman and her child--who may be Victor's salvation. &lt;br /&gt;Victor believes himself to be a good man doing bad work, unwilling to give up the freedom he has worked so hard to earn. But in pursuing Jackdaw, Victor discovers secrets at the core of the country's arrangement with the Hard Four, secrets the government will preserve at any cost.&lt;br /&gt;&lt;i&gt;Underground Airlines &lt;/i&gt;is a ground-breaking novel, a wickedly imaginative thriller, and a story of an America that is more like our own than we'd like to believe.</description>
 <authors>
 <author>
@@ -1944,9 +2248,9 @@
 <![CDATA[https://images.gr-assets.com/authors/1273516874p2/735413.jpg]]>
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/735413.Ben_H_Winters]]></link>
-<average_rating>3.75</average_rating>
-<ratings_count>81514</ratings_count>
-<text_reviews_count>10881</text_reviews_count>
+<average_rating>3.74</average_rating>
+<ratings_count>82381</ratings_count>
+<text_reviews_count>11012</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -1990,7 +2294,7 @@
   <id type="integer">34273236</id>
   <isbn>0735224293</isbn>
   <isbn13>9780735224292</isbn13>
-  <text_reviews_count type="integer">21928</text_reviews_count>
+  <text_reviews_count type="integer">22356</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.TeRF9T1WMExlpZebbkMaXg</uri>
   <title>Little Fires Everywhere</title>
   <title_without_series>Little Fires Everywhere</title_without_series>
@@ -2006,10 +2310,10 @@
   <publication_year>2017</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.13</average_rating>
-  <ratings_count>293633</ratings_count>
+  <ratings_count>300102</ratings_count>
   <description>&lt;p&gt;
   &lt;i&gt;Everyone in Shaker Heights was talking about it that summer: how Isabelle, the last of the Richardson children, had finally gone around the bend and burned the house down. &lt;/i&gt;
-&lt;/p&gt;&lt;p&gt;In Shaker Heights, a placid, progressive suburb of Cleveland, everything is meticulously planned ñ from the layout of the winding roads, to the colours of the houses, to the successful lives its residents will go on to lead. And no one embodies this spirit more than Elena Richardson, whose guiding principle is playing by the rules.&lt;/p&gt;&lt;p&gt;Enter Mia Warren ñ an enigmatic artist and single mother ñ who arrives in this idyllic bubble with her teenage daughter Pearl, and rents a house from the Richardsons. Soon Mia and Pearl become more than just tenants: all four Richardson children are drawn to the alluring mother-daughter pair. But Mia carries with her a mysterious past, and a disregard for the rules that threatens to upend this carefully ordered community.&lt;/p&gt;&lt;p&gt;When the Richardsons' friends attempt to adopt a Chinese-American baby, a custody battle erupts that dramatically divides the town and puts Mia and Mrs. Richardson on opposing sides. Suspicious of Mia and her motives, Mrs. Richardson becomes determined to uncover the secrets in Mia's past. But her obsession will come at unexpected and devastating costs to her own family ñ and Mia's. &lt;/p&gt;&lt;p&gt;&lt;i&gt;Little Fires Everywhere&lt;/i&gt; explores the weight of long-held secrets and the ferocious pull of motherhood-and the danger of believing that planning and following the rules can avert disaster, or heartbreak.&lt;/p&gt;</description>
+&lt;/p&gt;&lt;p&gt;In Shaker Heights, a placid, progressive suburb of Cleveland, everything is meticulously planned ‚Äì from the layout of the winding roads, to the colours of the houses, to the successful lives its residents will go on to lead. And no one embodies this spirit more than Elena Richardson, whose guiding principle is playing by the rules.&lt;/p&gt;&lt;p&gt;Enter Mia Warren ‚Äì an enigmatic artist and single mother ‚Äì who arrives in this idyllic bubble with her teenage daughter Pearl, and rents a house from the Richardsons. Soon Mia and Pearl become more than just tenants: all four Richardson children are drawn to the alluring mother-daughter pair. But Mia carries with her a mysterious past, and a disregard for the rules that threatens to upend this carefully ordered community.&lt;/p&gt;&lt;p&gt;When the Richardsons' friends attempt to adopt a Chinese-American baby, a custody battle erupts that dramatically divides the town and puts Mia and Mrs. Richardson on opposing sides. Suspicious of Mia and her motives, Mrs. Richardson becomes determined to uncover the secrets in Mia's past. But her obsession will come at unexpected and devastating costs to her own family ‚Äì and Mia's. &lt;/p&gt;&lt;p&gt;&lt;i&gt;Little Fires Everywhere&lt;/i&gt; explores the weight of long-held secrets and the ferocious pull of motherhood-and the danger of believing that planning and following the rules can avert disaster, or heartbreak.&lt;/p&gt;</description>
 <authors>
 <author>
 <id>164692</id>
@@ -2023,8 +2327,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/164692.Celeste_Ng]]></link>
 <average_rating>4.01</average_rating>
-<ratings_count>509610</ratings_count>
-<text_reviews_count>48220</text_reviews_count>
+<ratings_count>518577</ratings_count>
+<text_reviews_count>48974</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -2068,7 +2372,7 @@
   <id type="integer">34974310</id>
   <isbn>1501181823</isbn>
   <isbn13>9781501181825</isbn13>
-  <text_reviews_count type="integer">3323</text_reviews_count>
+  <text_reviews_count type="integer">3406</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.06TaaYwPYiJ6DguuDEX_Kg</uri>
   <title>The Last Black Unicorn</title>
   <title_without_series>The Last Black Unicorn</title_without_series>
@@ -2083,9 +2387,9 @@
   <publication_day>5</publication_day>
   <publication_year>2017</publication_year>
   <publication_month>12</publication_month>
-  <average_rating>3.93</average_rating>
-  <ratings_count>29857</ratings_count>
-  <description>&lt;b&gt;&lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLER&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;From stand-up comedian, actress, and breakout star of &lt;i&gt;Girls Trip&lt;/i&gt;, Tiffany Haddish, comes&lt;i&gt; The Last Black Unicorn&lt;/i&gt;, a sidesplitting, hysterical, edgy, and unflinching collection of (extremely) personal essays, as fearless as the author herself.&lt;br /&gt;&lt;br /&gt;Growing up in one of the poorest neighborhoods of South Central Los Angeles, Tiffany learned to survive by making people laugh. If she could do that, then her classmates would let her copy their homework, the other foster kids she lived with wouldnít beat her up, and she might even get a boyfriend. Or at least she could make enough moneyóas the paid school mascot and in-demand Bar Mitzvah hype womanóto get her hair and nails done, so then she might get a boyfriend.&lt;br /&gt;&lt;br /&gt; None of that worked (and sheís still single), but it allowed Tiffany to imagine a place for herself where she could do something she loved for a living: comedy.&lt;br /&gt;&lt;br /&gt; Tiffany canít avoid being funnyóitís just who she is, whether sheís plotting shocking, jaw-dropping revenge on an ex-boyfriend or learning how to handle her newfound fame despite still having a broke personís mind-set. Finally poised to become a household name, she recounts with heart and humor how she came from nothing and nowhere to achieve her dreams by owning, sharing, and using her pain to heal others.&lt;br /&gt;&lt;br /&gt; By turns hilarious, filthy, and brutally honest, &lt;i&gt;The Last Black Unicorn&lt;/i&gt; shows the world who Tiffany Haddish really isóhumble, grateful, down-to-earth, and funny as hell. And now, sheís ready to inspire others through the power of laughter.</description>
+  <average_rating>3.92</average_rating>
+  <ratings_count>30557</ratings_count>
+  <description>&lt;b&gt;&lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLER&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;From stand-up comedian, actress, and breakout star of &lt;i&gt;Girls Trip&lt;/i&gt;, Tiffany Haddish, comes&lt;i&gt; The Last Black Unicorn&lt;/i&gt;, a sidesplitting, hysterical, edgy, and unflinching collection of (extremely) personal essays, as fearless as the author herself.&lt;br /&gt;&lt;br /&gt;Growing up in one of the poorest neighborhoods of South Central Los Angeles, Tiffany learned to survive by making people laugh. If she could do that, then her classmates would let her copy their homework, the other foster kids she lived with wouldn‚Äôt beat her up, and she might even get a boyfriend. Or at least she could make enough money‚Äîas the paid school mascot and in-demand Bar Mitzvah hype woman‚Äîto get her hair and nails done, so then she might get a boyfriend.&lt;br /&gt;&lt;br /&gt; None of that worked (and she‚Äôs still single), but it allowed Tiffany to imagine a place for herself where she could do something she loved for a living: comedy.&lt;br /&gt;&lt;br /&gt; Tiffany can‚Äôt avoid being funny‚Äîit‚Äôs just who she is, whether she‚Äôs plotting shocking, jaw-dropping revenge on an ex-boyfriend or learning how to handle her newfound fame despite still having a broke person‚Äôs mind-set. Finally poised to become a household name, she recounts with heart and humor how she came from nothing and nowhere to achieve her dreams by owning, sharing, and using her pain to heal others.&lt;br /&gt;&lt;br /&gt; By turns hilarious, filthy, and brutally honest, &lt;i&gt;The Last Black Unicorn&lt;/i&gt; shows the world who Tiffany Haddish really is‚Äîhumble, grateful, down-to-earth, and funny as hell. And now, she‚Äôs ready to inspire others through the power of laughter.</description>
 <authors>
 <author>
 <id>16781738</id>
@@ -2098,9 +2402,9 @@
 <![CDATA[https://images.gr-assets.com/authors/1520597254p2/16781738.jpg]]>
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/16781738.Tiffany_Haddish]]></link>
-<average_rating>3.93</average_rating>
-<ratings_count>29857</ratings_count>
-<text_reviews_count>4126</text_reviews_count>
+<average_rating>3.92</average_rating>
+<ratings_count>30556</ratings_count>
+<text_reviews_count>4222</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -2144,7 +2448,7 @@
   <id type="integer">10335308</id>
   <isbn>0307886263</isbn>
   <isbn13>9780307886262</isbn13>
-  <text_reviews_count type="integer">18490</text_reviews_count>
+  <text_reviews_count type="integer">18519</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.d_dvnRe8zcyE3jn7z2qEIQ</uri>
   <title>Is Everyone Hanging Out Without Me?</title>
   <title_without_series>Is Everyone Hanging Out Without Me?</title_without_series>
@@ -2160,8 +2464,8 @@
   <publication_year>2011</publication_year>
   <publication_month>11</publication_month>
   <average_rating>3.85</average_rating>
-  <ratings_count>364781</ratings_count>
-  <description>Mindy Kaling has lived many lives: the obedient child of immigrant professionals, a timid chubster afraid of her own bike, a Ben Affleckñimpersonating Off-Broadway performer and playwright, and, finally, a comedy writer and actress prone to starting fights with her friends and coworkers with the sentence ìCan I just say one last thing about this, and then I swear Iíll shut up about it?î &lt;br /&gt;†&lt;br /&gt;Perhaps you want to know what Mindy thinks makes a great best friend (someone who will fill your prescription in the middle of the night), or what makes a great guy (one who is aware of all elderly people in any room at any time and acts accordingly), or what is the perfect amount of fame (so famous you can never get convicted of murder in a court of law), or how to maintain a trim figure (you will not find that information in these pages). If so, youíve come to the right book, mostly!&lt;br /&gt;†&lt;br /&gt;In &lt;i&gt;Is Everyone Hanging Out Without Me?, &lt;/i&gt;Mindy invites readers on a tour of her life and her unscientific observations on romance, friendship, and Hollywood, with several conveniently placed stopping points for you to run errands and make phone calls. Mindy Kaling really is just a Girl Next Doorónot so much literally anywhere in the continental United States, but definitely if you live in India or Sri Lanka.</description>
+  <ratings_count>366163</ratings_count>
+  <description>Mindy Kaling has lived many lives: the obedient child of immigrant professionals, a timid chubster afraid of her own bike, a Ben Affleck‚Äìimpersonating Off-Broadway performer and playwright, and, finally, a comedy writer and actress prone to starting fights with her friends and coworkers with the sentence ‚ÄúCan I just say one last thing about this, and then I swear I‚Äôll shut up about it?‚Äù &lt;br /&gt;¬†&lt;br /&gt;Perhaps you want to know what Mindy thinks makes a great best friend (someone who will fill your prescription in the middle of the night), or what makes a great guy (one who is aware of all elderly people in any room at any time and acts accordingly), or what is the perfect amount of fame (so famous you can never get convicted of murder in a court of law), or how to maintain a trim figure (you will not find that information in these pages). If so, you‚Äôve come to the right book, mostly!&lt;br /&gt;¬†&lt;br /&gt;In &lt;i&gt;Is Everyone Hanging Out Without Me?, &lt;/i&gt;Mindy invites readers on a tour of her life and her unscientific observations on romance, friendship, and Hollywood, with several conveniently placed stopping points for you to run errands and make phone calls. Mindy Kaling really is just a Girl Next Door‚Äînot so much literally anywhere in the continental United States, but definitely if you live in India or Sri Lanka.</description>
 <authors>
 <author>
 <id>194416</id>
@@ -2175,8 +2479,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/194416.Mindy_Kaling]]></link>
 <average_rating>3.86</average_rating>
-<ratings_count>509425</ratings_count>
-<text_reviews_count>30368</text_reviews_count>
+<ratings_count>511763</ratings_count>
+<text_reviews_count>30471</text_reviews_count>
 </author>
 </authors>
   <published>2011</published>
@@ -2220,7 +2524,7 @@
   <id type="integer">394255</id>
   <isbn>0743456661</isbn>
   <isbn13>9780743456661</isbn13>
-  <text_reviews_count type="integer">1236</text_reviews_count>
+  <text_reviews_count type="integer">1296</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.xYCpGvU3o2Q2bnkK6MvoTA</uri>
   <title>The Wife</title>
   <title_without_series>The Wife</title_without_series>
@@ -2236,7 +2540,7 @@
   <publication_year>2004</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.68</average_rating>
-  <ratings_count>12105</ratings_count>
+  <ratings_count>12752</ratings_count>
   <description>&lt;br /&gt;"The moment I decided to leave him, the moment I thought, enough, we were thirty-five thousand feet above the ocean, hurtling forward but giving the illusion of stillness and tranquility. &lt;i&gt;Just like our marriage."&lt;/i&gt; So opens Meg Wolitzer's compelling and provocative novel &lt;i&gt;The Wife,&lt;/i&gt; as Joan Castleman sits beside her husband on their flight to Helsinki. Joan's husband, Joseph Castleman, is "one of those men who own the world...who has no idea how to take care of himself or anyone else, and who derives much of his style from the Dylan Thomas Handbook of Personal Hygiene and Etiquette." He is also one of America's preeminent novelists, about to receive a prestigious international award to honor his accomplishments, and Joan, who has spent forty years subjugating her own literary talents to fan the flames of his career, has finally decided to stop. &lt;p&gt; From this gripping opening, Wolitzer flashes back fifty years to 1950s Smith College and Greenwich Village -- the beginning of the Castleman relationship -- and follows the course of the famous marriage that has brought them to this breaking point, culminating in a shocking ending that outs a carefully kept secret. &lt;/p&gt;&lt;p&gt; Wolitzer's most important and ambitious book to date, &lt;i&gt;The Wife&lt;/i&gt; is a wise, sharp-eyed, compulsively readable story about a woman forced to confront the sacrifices she's made in order to achieve the life she thought she wanted. But it's also an unusually candid look at the choices all men and women make for themselves, in marriage, work, and life. With her skillful storytelling and pitch-perfect observations, Wolitzer invites intriguing questions about the nature of partnership and the precarious position of an ambitious woman in a man's world.&lt;br /&gt;&lt;/p&gt;</description>
 <authors>
 <author>
@@ -2251,8 +2555,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/113936.Meg_Wolitzer]]></link>
 <average_rating>3.51</average_rating>
-<ratings_count>167019</ratings_count>
-<text_reviews_count>20896</text_reviews_count>
+<ratings_count>168890</ratings_count>
+<text_reviews_count>21111</text_reviews_count>
 </author>
 </authors>
   <published>2004</published>
@@ -2296,7 +2600,7 @@
   <id type="integer">165395</id>
   <isbn>0553146963</isbn>
   <isbn13>9780553146967</isbn13>
-  <text_reviews_count type="integer">775</text_reviews_count>
+  <text_reviews_count type="integer">779</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.tkzpgzPOHnb80fMoEt1Mgg</uri>
   <title>Rubyfruit Jungle</title>
   <title_without_series>Rubyfruit Jungle</title_without_series>
@@ -2312,7 +2616,7 @@
   <publication_year>1980</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.90</average_rating>
-  <ratings_count>28462</ratings_count>
+  <ratings_count>28535</ratings_count>
   <description>Bawdy and moving, the ultimate word-of-mouth bestseller, Rubyfruit Jungle is about growing up a lesbian in America--and living happily ever after.</description>
 <authors>
 <author>
@@ -2327,8 +2631,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/23511.Rita_Mae_Brown]]></link>
 <average_rating>3.84</average_rating>
-<ratings_count>119591</ratings_count>
-<text_reviews_count>7152</text_reviews_count>
+<ratings_count>119917</ratings_count>
+<text_reviews_count>7179</text_reviews_count>
 </author>
 </authors>
   <published>1980</published>
@@ -2372,7 +2676,7 @@
   <id type="integer">4929</id>
   <isbn>1400079276</isbn>
   <isbn13>9781400079278</isbn13>
-  <text_reviews_count type="integer">10929</text_reviews_count>
+  <text_reviews_count type="integer">10999</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.gDH1_-18MG4EmXmSl6pqIw</uri>
   <title>Kafka on the Shore</title>
   <title_without_series>Kafka on the Shore</title_without_series>
@@ -2388,8 +2692,8 @@
   <publication_year>2006</publication_year>
   <publication_month>1</publication_month>
   <average_rating>4.14</average_rating>
-  <ratings_count>237727</ratings_count>
-  <description>&lt;i&gt;Kafka on the Shore&lt;/i&gt;, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddleóyet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own.</description>
+  <ratings_count>239184</ratings_count>
+  <description>&lt;i&gt;Kafka on the Shore&lt;/i&gt;, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddle‚Äîyet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own.</description>
 <authors>
 <author>
 <id>3354</id>
@@ -2403,8 +2707,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
 <average_rating>3.95</average_rating>
-<ratings_count>1871387</ratings_count>
-<text_reviews_count>135923</text_reviews_count>
+<ratings_count>1883768</ratings_count>
+<text_reviews_count>136937</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -2448,7 +2752,7 @@
   <id type="integer">34517</id>
   <isbn>0552152951</isbn>
   <isbn13>9780552152952</isbn13>
-  <text_reviews_count type="integer">1295</text_reviews_count>
+  <text_reviews_count type="integer">1304</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.688XPKqJCEl8ficwgiwoyQ</uri>
   <title>Reaper Man (Discworld, #11; Death, #2)</title>
   <title_without_series>Reaper Man</title_without_series>
@@ -2464,7 +2768,7 @@
   <publication_year>2005</publication_year>
   <publication_month>4</publication_month>
   <average_rating>4.28</average_rating>
-  <ratings_count>70707</ratings_count>
+  <ratings_count>70968</ratings_count>
   <description>&lt;i&gt;'Death has to happen. That's what bein' alive is all about. You're alive, and then you're dead. It can't just stop happening.'&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;But it can. And it has. So what happens after death is now less of a philosophical question than a question of actual reality. On the Disc, as here, they need Death. If Death doesn't come for you, then what are you supposed to do in the meantime? You can't have the undead wandering about like lost souls. There's no telling what might happen, particularly when they discover that life really is only for the living...</description>
 <authors>
 <author>
@@ -2479,8 +2783,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2005</published>
@@ -2524,7 +2828,7 @@
   <id type="integer">29496435</id>
   <isbn>0143129201</isbn>
   <isbn13>9780143129202</isbn13>
-  <text_reviews_count type="integer">1369</text_reviews_count>
+  <text_reviews_count type="integer">1392</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.39EiCy3yKrpudfDJUoT10A</uri>
   <title>You Can't Touch My Hair: And Other Things I Still Have to Explain</title>
   <title_without_series>You Can't Touch My Hair: And Other Things I Still Have to Explain</title_without_series>
@@ -2540,7 +2844,7 @@
   <publication_year>2016</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.86</average_rating>
-  <ratings_count>13038</ratings_count>
+  <ratings_count>13203</ratings_count>
   <description>A hilarious and affecting essay collection about race, gender, and pop culture from celebrated stand-up comedian and WNYC podcaster Phoebe Robinson.&lt;br /&gt;&lt;br /&gt;Phoebe Robinson is a stand-up comic, which means that, often, her everyday experiences become points of comedic fodder. And as a black woman in America, she maintains, sometimes you need to have a sense of humor to deal with the absurdity you are handed on the daily. Robinson has experienced her fair share over the years: she's been unceremoniously relegated to the role of "the black friend," as if she is somehow the authority on all things racial; she's been questioned about her love of U2 and Billy Joel ("isn t that . . . white people music?"); she's been called "uppity" for having an opinion in the workplace; she's been followed around stores by security guards; and yes, people do ask her whether they can touch her hair all. the. time. Now, she's ready to take these topics to the page and she s going to make you laugh as she s doing it. &lt;br /&gt;&lt;br /&gt;Using her trademark wit alongside pop-culture references galore, Robinson explores everything from why Lisa Bonet is "Queen. Bae. Jesus," to breaking down the terrible nature of casting calls, to giving her less-than-traditional advice to the future female president, and demanding that the NFL clean up its act, all told in the same conversational voice that launched her podcast, "2 Dope Queens," to the top spot on iTunes. As personal as it is political, "You Can't Touch My Hair" examines our cultural climate and skewers our biases with humor and heart, announcing Robinson as a writer on the rise."</description>
 <authors>
 <author>
@@ -2555,8 +2859,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/15080033.Phoebe_Robinson]]></link>
 <average_rating>3.87</average_rating>
-<ratings_count>14954</ratings_count>
-<text_reviews_count>1895</text_reviews_count>
+<ratings_count>15352</ratings_count>
+<text_reviews_count>1955</text_reviews_count>
 </author>
 </authors>
   <published>2016</published>
@@ -2600,7 +2904,7 @@
   <id type="integer">34510</id>
   <isbn>0552152943</isbn>
   <isbn13>9780552152945</isbn13>
-  <text_reviews_count type="integer">726</text_reviews_count>
+  <text_reviews_count type="integer">729</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.EKfaEBkimkdwouuMZI4fvA</uri>
   <title>Moving Pictures (Discworld, #10; Industrial Revolution, #1)</title>
   <title_without_series>Moving Pictures</title_without_series>
@@ -2616,7 +2920,7 @@
   <publication_year>2005</publication_year>
   <publication_month>4</publication_month>
   <average_rating>3.93</average_rating>
-  <ratings_count>56942</ratings_count>
+  <ratings_count>57126</ratings_count>
   <description>&lt;i&gt;'Holy wood is a different sort of place. People act differently here. Everywhere else the most important things are gods or money or cattle. Here, the most important thing is to be important.'&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;&lt;br /&gt;People might say that reality is a quality that things possess in the same way that they possess weight. Sadly alchemists never really held with such a quaint notion. They think that they can change reality, shape it to their own purpose. Imagine then the damage that could be wrought if they get their hands on the ultimate alchemy: the invention of motion pictures, the greatest making of illusions. It may be a triumph of universe-shaking proportions. It's either that or they're about to unlock the dark terrible secret of the Holy Wood hills - by mistake...</description>
 <authors>
 <author>
@@ -2631,8 +2935,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2005</published>
@@ -2676,7 +2980,7 @@
   <id type="integer">32802595</id>
   <isbn>1473647606</isbn>
   <isbn13>9781473647602</isbn13>
-  <text_reviews_count type="integer">962</text_reviews_count>
+  <text_reviews_count type="integer">1014</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.jnqgmBcT29KY_QnKNBly7A</uri>
   <title>Record of a Spaceborn Few (Wayfarers, #3)</title>
   <title_without_series>Record of a Spaceborn Few</title_without_series>
@@ -2692,7 +2996,7 @@
   <publication_year>2018</publication_year>
   <publication_month>7</publication_month>
   <average_rating>4.19</average_rating>
-  <ratings_count>7432</ratings_count>
+  <ratings_count>7792</ratings_count>
   <description>&lt;b&gt;From the ground, we stand. From our ship, we live. By the stars, we hope&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Centuries after the last humans left Earth, the Exodus Fleet is a living relic, a place many are from but few outsiders have seen. Humanity has finally been accepted into the galactic community, but while this has opened doors for many, those who have not yet left for alien cities fear that their carefully cultivated way of life is under threat.&lt;br /&gt;&lt;br /&gt;Tessa chose to stay home when her brother Ashby left for the stars, but has to question that decision when her position in the Fleet is threatened.&lt;br /&gt;&lt;br /&gt;Kip, a reluctant young apprentice, itches for change but doesn't know where to find it.&lt;br /&gt;&lt;br /&gt;Sawyer, a lost and lonely newcomer, is just looking for a place to belong.&lt;br /&gt;&lt;br /&gt;When a disaster rocks this already fragile community, those Exodans who still call the Fleet their home can no longer avoid the inescapable question:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;What is the purpose of a ship that has reached its destination?&lt;/b&gt;</description>
 <authors>
 <author>
@@ -2707,8 +3011,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/8389735.Becky_Chambers]]></link>
 <average_rating>4.22</average_rating>
-<ratings_count>72225</ratings_count>
-<text_reviews_count>12166</text_reviews_count>
+<ratings_count>73581</ratings_count>
+<text_reviews_count>12395</text_reviews_count>
 </author>
 </authors>
   <published>2018</published>
@@ -2752,7 +3056,7 @@
   <id type="integer">7763</id>
   <isbn>0143038095</isbn>
   <isbn13>9780143038092</isbn13>
-  <text_reviews_count type="integer">6607</text_reviews_count>
+  <text_reviews_count type="integer">6623</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.CIRv1xAT0rKgC7wcG1EQZQ</uri>
   <title>The Joy Luck Club</title>
   <title_without_series>The Joy Luck Club</title_without_series>
@@ -2768,7 +3072,7 @@
   <publication_year>2006</publication_year>
   <publication_month>9</publication_month>
   <average_rating>3.91</average_rating>
-  <ratings_count>556879</ratings_count>
+  <ratings_count>557892</ratings_count>
   <description>In 1949, four Chinese women, recent immigrants to San Francisco, begin meeting to eat dim sum, play mahjong, and talk. United in shared loss and hope, they call themselves the Joy Luck Club. With wit and wisdom, Amy Tan examines the sometimes painful, often tender, and always deep connection between these four women and their American-born daughters. As each reveals her secrets, trying to unravel the truth about her life, the strings become more tangled, more entwined...</description>
 <authors>
 <author>
@@ -2783,8 +3087,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/5246.Amy_Tan]]></link>
 <average_rating>3.90</average_rating>
-<ratings_count>856454</ratings_count>
-<text_reviews_count>23643</text_reviews_count>
+<ratings_count>858029</ratings_count>
+<text_reviews_count>23699</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -2828,7 +3132,7 @@
   <id type="integer">29939230</id>
   <isbn>0765387468</isbn>
   <isbn13>9780765387462</isbn13>
-  <text_reviews_count type="integer">6451</text_reviews_count>
+  <text_reviews_count type="integer">6528</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.G72Y-N-NtGmXnw_KlHDR9Q</uri>
   <title>A Conjuring of Light (Shades of Magic, #3)</title>
   <title_without_series>A Conjuring of Light</title_without_series>
@@ -2844,7 +3148,7 @@
   <publication_year>2017</publication_year>
   <publication_month>2</publication_month>
   <average_rating>4.39</average_rating>
-  <ratings_count>50287</ratings_count>
+  <ratings_count>51091</ratings_count>
   <description>&lt;b&gt;&lt;i&gt;Witness the fate of beloved heroes - and enemies.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;THE BALANCE OF POWER HAS FINALLY TIPPED...&lt;/b&gt;&lt;br /&gt;The precarious equilibrium among four Londons has reached its breaking point. Once brimming with the red vivacity of magic, darkness casts a shadow over the Maresh Empire, leaving a space for another London to rise.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;WHO WILL CRUMBLE?&lt;/b&gt;&lt;br /&gt;Kell - once assumed to be the last surviving &lt;i&gt;Antari&lt;/i&gt; - begins to waver under the pressure of competing loyalties. And in the wake of tragedy, can Arnes survive?&lt;br /&gt;&lt;br /&gt;&lt;b&gt;WHO WILL RISE?&lt;/b&gt;&lt;br /&gt;Lila Bard, once a commonplace - but never common - thief, has survived and flourished through a series of magical trials. But now she must learn to control the magic, before it bleeds her dry. Meanwhile, the disgraced Captain Alucard Emery of the &lt;i&gt;Night Spire&lt;/i&gt; collects his crew, attempting a race against time to acquire the impossible.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;WHO WILL TAKE CONTROL?&lt;/b&gt;&lt;br /&gt;And an ancient enemy returns to claim a crown while a fallen hero tries to save a world in decay.</description>
 <authors>
 <author>
@@ -2859,8 +3163,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7168230.V_E_Schwab]]></link>
 <average_rating>4.22</average_rating>
-<ratings_count>323159</ratings_count>
-<text_reviews_count>52233</text_reviews_count>
+<ratings_count>329104</ratings_count>
+<text_reviews_count>53058</text_reviews_count>
 </author>
 </authors>
   <published>2017</published>
@@ -2904,7 +3208,7 @@
   <id type="integer">20764879</id>
   <isbn>0765376474</isbn>
   <isbn13>9780765376473</isbn13>
-  <text_reviews_count type="integer">8184</text_reviews_count>
+  <text_reviews_count type="integer">8258</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.0wkzDE8UWSZ1gq-zUIjjMQ</uri>
   <title>A Gathering of Shadows (Shades of Magic, #2)</title>
   <title_without_series>A Gathering of Shadows</title_without_series>
@@ -2920,7 +3224,7 @@
   <publication_year>2016</publication_year>
   <publication_month>2</publication_month>
   <average_rating>4.31</average_rating>
-  <ratings_count>66997</ratings_count>
+  <ratings_count>67867</ratings_count>
   <description>It has been four months since a mysterious obsidian stone fell into Kell's possession. Four months since his path crossed with Delilah Bard. Four months since Prince Rhy was wounded, and since the nefarious Dane twins of White London fell, and four months since the stone was cast with Holland's dying body through the rift--back into Black London.&lt;br /&gt;&lt;br /&gt;Now, restless after having given up his smuggling habit, Kell is visited by dreams of ominous magical events, waking only to think of Lila, who disappeared from the docks as she always meant to do. As Red London finalizes preparations for the Element Games--an extravagant international competition of magic meant to entertain and keep healthy the ties between neighboring countries--a certain pirate ship draws closer, carrying old friends back into port.&lt;br /&gt;&lt;br /&gt;And while Red London is caught up in the pageantry and thrills of the Games, another London is coming back to life. After all, a shadow that was gone in the night will reappear in the morning. But the balance of magic is ever perilous, and for one city to flourish, another London must fall.</description>
 <authors>
 <author>
@@ -2935,8 +3239,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/7168230.V_E_Schwab]]></link>
 <average_rating>4.22</average_rating>
-<ratings_count>323159</ratings_count>
-<text_reviews_count>52233</text_reviews_count>
+<ratings_count>329104</ratings_count>
+<text_reviews_count>53058</text_reviews_count>
 </author>
 </authors>
   <published>2016</published>
@@ -2980,7 +3284,7 @@
   <id type="integer">64218</id>
   <isbn>0380821214</isbn>
   <isbn13>9780380821211</isbn13>
-  <text_reviews_count type="integer">964</text_reviews_count>
+  <text_reviews_count type="integer">966</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.M2LW193WAd5NLq7UgWYFPw</uri>
   <title>Eric (Discworld, #9; Rincewind #4)</title>
   <title_without_series>Eric</title_without_series>
@@ -2996,7 +3300,7 @@
   <publication_year>2008</publication_year>
   <publication_month>7</publication_month>
   <average_rating>3.74</average_rating>
-  <ratings_count>50453</ratings_count>
+  <ratings_count>50652</ratings_count>
   <description>Discworld's only demonology hacker, Eric, is about to make life very difficult for the rest of Ankh-Morpork's denizens. This would-be Faust is very bad...at his work, that is. All he wants is to fulfill three little wishes:to live forever, to be master of the universe, and to have a stylin' hot babe.&lt;br /&gt;&lt;br /&gt;But Eric isn't even good at getting his own way. Instead of a powerful demon, he conjures, well, Rincewind, a wizard whose incompetence is matched only by Eric's. And as if that wasn't bad enough, that lovable travel accessory the Luggage has arrived, too. Accompanied by his best friends, there's only one thing Eric wishes now -- that he'd never been born!</description>
 <authors>
 <author>
@@ -3011,8 +3315,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2008</published>
@@ -3056,7 +3360,7 @@
   <id type="integer">2213661</id>
   <isbn>0060530928</isbn>
   <isbn13>9780060530921</isbn13>
-  <text_reviews_count type="integer">22704</text_reviews_count>
+  <text_reviews_count type="integer">22785</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.5AdcVR1XHSWVdy4G6zLkJw</uri>
   <title>The Graveyard Book</title>
   <title_without_series>The Graveyard Book</title_without_series>
@@ -3072,8 +3376,8 @@
   <publication_year>2008</publication_year>
   <publication_month>9</publication_month>
   <average_rating>4.13</average_rating>
-  <ratings_count>376985</ratings_count>
-  <description>After the grisly murder of his entire family, a toddler wanders into a graveyard where the ghosts and other supernatural residents agree to raise him as one of their own.&lt;br /&gt;&lt;br /&gt;Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy. But if Bod leaves the graveyard, then he will come under attack from the man Jackówho has already killed Bod's family... &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Beloved master storyteller Neil Gaiman returns with a luminous new novel for the audience that embraced his New York Times bestselling modern classic &lt;i&gt;Coraline&lt;/i&gt;. Magical, terrifying, and filled with breathtaking adventures, &lt;i&gt;The Graveyard Book&lt;/i&gt; is sure to enthrall readers of all ages.&lt;/b&gt;</description>
+  <ratings_count>378515</ratings_count>
+  <description>After the grisly murder of his entire family, a toddler wanders into a graveyard where the ghosts and other supernatural residents agree to raise him as one of their own.&lt;br /&gt;&lt;br /&gt;Nobody Owens, known to his friends as Bod, is a normal boy. He would be completely normal if he didn't live in a sprawling graveyard, being raised and educated by ghosts, with a solitary guardian who belongs to neither the world of the living nor of the dead. There are dangers and adventures in the graveyard for a boy. But if Bod leaves the graveyard, then he will come under attack from the man Jack‚Äîwho has already killed Bod's family... &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Beloved master storyteller Neil Gaiman returns with a luminous new novel for the audience that embraced his New York Times bestselling modern classic &lt;i&gt;Coraline&lt;/i&gt;. Magical, terrifying, and filled with breathtaking adventures, &lt;i&gt;The Graveyard Book&lt;/i&gt; is sure to enthrall readers of all ages.&lt;/b&gt;</description>
 <authors>
 <author>
 <id>1221698</id>
@@ -3087,8 +3391,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
 <average_rating>4.13</average_rating>
-<ratings_count>5089497</ratings_count>
-<text_reviews_count>300609</text_reviews_count>
+<ratings_count>5111842</ratings_count>
+<text_reviews_count>302266</text_reviews_count>
 </author>
 </authors>
   <published>2008</published>
@@ -3132,7 +3436,7 @@
   <id type="integer">64216</id>
   <isbn>0061020648</isbn>
   <isbn13>9780061020643</isbn13>
-  <text_reviews_count type="integer">2320</text_reviews_count>
+  <text_reviews_count type="integer">2337</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.2rp8a0vJ8clGzMzZf61R9Q</uri>
   <title>Guards! Guards! (Discworld, #8; City Watch #1)</title>
   <title_without_series>Guards! Guards!</title_without_series>
@@ -3148,7 +3452,7 @@
   <publication_year>2001</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.33</average_rating>
-  <ratings_count>138424</ratings_count>
+  <ratings_count>138930</ratings_count>
   <description>Here there be dragons . . . and the denizens of Ankh-Morpork wish one huge firebreather would return from whence it came. Long believed extinct, a superb specimen of &lt;i&gt;draco nobilis&lt;/i&gt; ("noble dragon" for those who don't understand italics) has appeared in Discworld's greatest city. Not only does this unwelcome visitor have a nasty habit of charbroiling everything in its path, in rather short order it is crowned King (it is a &lt;i&gt;noble&lt;/i&gt; dragon, after all . . .).&lt;br /&gt;&lt;br /&gt;Meanwhile, back at Unseen University, an ancient and long-forgotten volume--&lt;i&gt;The Summoning of Dragons&lt;/i&gt;--is missing from the Library's shelves. To the rescue come Captain Vimes, Constable Carrot, and the rest of the Night Watch who, along with other brave citizens, risk everything, including a good roasting, to dethrone the flying monarch and restore order to Ankh-Morpork (before it's burned to a crisp). A rare tale, well done as only Terry Pratchett can.</description>
 <authors>
 <author>
@@ -3163,8 +3467,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2001</published>
@@ -3208,7 +3512,7 @@
   <id type="integer">17061</id>
   <isbn>0061139378</isbn>
   <isbn13>9780061139376</isbn13>
-  <text_reviews_count type="integer">11667</text_reviews_count>
+  <text_reviews_count type="integer">11709</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.iZ08M4DnKVh3VqwRVK5eKg</uri>
   <title>Coraline</title>
   <title_without_series>Coraline</title_without_series>
@@ -3224,7 +3528,7 @@
   <publication_year>2006</publication_year>
   <publication_month>8</publication_month>
   <average_rating>4.05</average_rating>
-  <ratings_count>401423</ratings_count>
+  <ratings_count>403063</ratings_count>
   <description>The day after they moved in, Coraline went exploring....&lt;br /&gt;&lt;br /&gt;In Coraline's family's new flat are twenty-one windows and fourteen doors. Thirteen of the doors open and close. &lt;br /&gt;&lt;br /&gt;The fourteenth is locked, and on the other side is only a brick wall, until the day Coraline unlocks the door to find a passage to another flat in another house just like her own. &lt;br /&gt;&lt;br /&gt;Only it's different. &lt;br /&gt;&lt;br /&gt;At first, things seem marvelous in the other flat. The food is better. The toy box is filled with wind-up angels that flutter around the bedroom, books whose pictures writhe and crawl and shimmer, little dinosaur skulls that chatter their teeth. But there's another mother, and another father, and they want Coraline to stay with them and be their little girl. They want to change her and never let her go. &lt;br /&gt;&lt;br /&gt;Other children are trapped there as well, lost souls behind the mirrors. Coraline is their only hope of rescue. She will have to fight with all her wits and all the tools she can find if she is to save the lost children, her ordinary life, and herself. &lt;br /&gt;&lt;br /&gt;Critically acclaimed and award-winning author Neil Gaiman will delight readers with his first novel for all ages.</description>
 <authors>
 <author>
@@ -3239,8 +3543,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
 <average_rating>4.13</average_rating>
-<ratings_count>5089497</ratings_count>
-<text_reviews_count>300609</text_reviews_count>
+<ratings_count>5111842</ratings_count>
+<text_reviews_count>302266</text_reviews_count>
 </author>
 </authors>
   <published>2006</published>
@@ -3284,7 +3588,7 @@
   <id type="integer">64217</id>
   <isbn>0061020656</isbn>
   <isbn13>9780061020650</isbn13>
-  <text_reviews_count type="integer">1033</text_reviews_count>
+  <text_reviews_count type="integer">1036</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.EupmSi6Azr5NiD-rUZOk4A</uri>
   <title>Pyramids (Discworld, #7)</title>
   <title_without_series>Pyramids</title_without_series>
@@ -3300,7 +3604,7 @@
   <publication_year>2008</publication_year>
   <publication_month/>
   <average_rating>3.90</average_rating>
-  <ratings_count>59053</ratings_count>
+  <ratings_count>59236</ratings_count>
   <description>It's bad enough being new on the job, but Teppic hasn't a clue as to what a pharaoh is supposed to do. After all, he's been trained at Ankh-Morpork's famed assassins' school, across the sea from the Kingdom of the Sun. First, there's the monumental task of building a suitable resting place for Dad -- a pyramid to end all pyramids. Then there are the myriad administrative duties, such as dealing with mad priests, sacred crocodiles, and marching mummies. And to top it all off, the adolescent pharaoh discovers deceit, betrayal - not to mention a headstrong handmaiden - at the heart of his realm.</description>
 <authors>
 <author>
@@ -3315,8 +3619,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2008</published>
@@ -3360,7 +3664,7 @@
   <id type="integer">17645</id>
   <isbn>1841957178</isbn>
   <isbn13>9781841957173</isbn13>
-  <text_reviews_count type="integer">2298</text_reviews_count>
+  <text_reviews_count type="integer">2307</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.bYslL_x-iljrEWyeWCjOkg</uri>
   <title>The Penelopiad</title>
   <title_without_series>The Penelopiad</title_without_series>
@@ -3376,8 +3680,8 @@
   <publication_year>2005</publication_year>
   <publication_month>10</publication_month>
   <average_rating>3.69</average_rating>
-  <ratings_count>31438</ratings_count>
-  <description>&lt;b&gt;Now that all the others have run out of air, itís my turn to do a little story-making.&lt;/b&gt; &lt;p&gt;In Homerís account in &lt;i&gt;The Odyssey&lt;/i&gt;, Penelopeówife of Odysseus and cousin of the beautiful Helen of Troyóis portrayed as the quintessential faithful wife, her story a salutary lesson through the ages. Left alone for twenty years when Odysseus goes off to fight in the Trojan War after the abduction of Helen, Penelope manages, in the face of scandalous rumors, to maintain the kingdom of Ithaca, bring up her wayward son, and keep over a hundred suitors at bay, simultaneously. When Odysseus finally comes home after enduring hardships, overcoming monsters, and sleeping with goddesses, he kills her suitors andócuriouslyótwelve of her maids.&lt;/p&gt; &lt;p&gt;In a splendid contemporary twist to the ancient story, Margaret Atwood has chosen to give the telling of it to Penelope and to her twelve hanged maids, asking: ìWhat led to the hanging of the maids, and what was Penelope &lt;i&gt;really&lt;/i&gt; up to?î In Atwoodís dazzling, playful retelling, the story becomes as wise and compassionate as it is haunting, and as wildly entertaining as it is disturbing. With wit and verve, drawing on the story-telling and poetic talent for which she herself is renowned, she gives Penelope new life and realityóand sets out to provide an answer to an ancient mystery.&lt;/p&gt;</description>
+  <ratings_count>31646</ratings_count>
+  <description>&lt;b&gt;Now that all the others have run out of air, it‚Äôs my turn to do a little story-making.&lt;/b&gt; &lt;p&gt;In Homer‚Äôs account in &lt;i&gt;The Odyssey&lt;/i&gt;, Penelope‚Äîwife of Odysseus and cousin of the beautiful Helen of Troy‚Äîis portrayed as the quintessential faithful wife, her story a salutary lesson through the ages. Left alone for twenty years when Odysseus goes off to fight in the Trojan War after the abduction of Helen, Penelope manages, in the face of scandalous rumors, to maintain the kingdom of Ithaca, bring up her wayward son, and keep over a hundred suitors at bay, simultaneously. When Odysseus finally comes home after enduring hardships, overcoming monsters, and sleeping with goddesses, he kills her suitors and‚Äîcuriously‚Äîtwelve of her maids.&lt;/p&gt; &lt;p&gt;In a splendid contemporary twist to the ancient story, Margaret Atwood has chosen to give the telling of it to Penelope and to her twelve hanged maids, asking: ‚ÄúWhat led to the hanging of the maids, and what was Penelope &lt;i&gt;really&lt;/i&gt; up to?‚Äù In Atwood‚Äôs dazzling, playful retelling, the story becomes as wise and compassionate as it is haunting, and as wildly entertaining as it is disturbing. With wit and verve, drawing on the story-telling and poetic talent for which she herself is renowned, she gives Penelope new life and reality‚Äîand sets out to provide an answer to an ancient mystery.&lt;/p&gt;</description>
 <authors>
 <author>
 <id>3472</id>
@@ -3391,8 +3695,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>
 <average_rating>4.00</average_rating>
-<ratings_count>1919837</ratings_count>
-<text_reviews_count>122428</text_reviews_count>
+<ratings_count>1934449</ratings_count>
+<text_reviews_count>123113</text_reviews_count>
 </author>
 </authors>
   <published>2005</published>
@@ -3436,7 +3740,7 @@
   <id type="integer">34504</id>
   <isbn>0061020664</isbn>
   <isbn13>9780061020667</isbn13>
-  <text_reviews_count type="integer">1702</text_reviews_count>
+  <text_reviews_count type="integer">1706</text_reviews_count>
   <uri>kca://book/amzn1.gr.book.v1.egyiqxLjgdfQia90D2zJTg</uri>
   <title>Wyrd Sisters (Discworld, #6; Witches #2)</title>
   <title_without_series>Wyrd Sisters</title_without_series>
@@ -3452,7 +3756,7 @@
   <publication_year>2001</publication_year>
   <publication_month>2</publication_month>
   <average_rating>4.12</average_rating>
-  <ratings_count>78753</ratings_count>
+  <ratings_count>79012</ratings_count>
   <description>Kingdoms wobble, crowns topple and knives flash on the magical Discworld as the statutory three witches meddle in royal politics. The wyrd sisters battle against frightful odds to put the rightful king on the throne. At least, that's what they think...</description>
 <authors>
 <author>
@@ -3467,8 +3771,8 @@
 </small_image_url>
 <link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
 <average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
+<ratings_count>3650500</ratings_count>
+<text_reviews_count>122556</text_reviews_count>
 </author>
 </authors>
   <published>2001</published>
@@ -3503,310 +3807,6 @@
   <comments_count>0</comments_count>
     <url><![CDATA[https://www.goodreads.com/review/show/2409846830]]></url>
   <link><![CDATA[https://www.goodreads.com/review/show/2409846830]]></link>
-    <owned>0</owned>
-</review>
-
-    <review>
-  <id>2452265891</id>
-    <book>
-  <id type="integer">28934521</id>
-  <isbn nil="true"/>
-  <isbn13>9781311968869</isbn13>
-  <text_reviews_count type="integer">1</text_reviews_count>
-  <uri>kca://book/amzn1.gr.book.v1.iC9tdOLkula-UDnNzSjXHw</uri>
-  <title>Wine: Become A Wine Connoisseur ñ Learn The World Of Wine Tasting, Pairing and Selecting</title>
-  <title_without_series>Wine: Become A Wine Connoisseur ñ Learn The World Of Wine Tasting, Pairing and Selecting</title_without_series>
-  <image_url>https://images.gr-assets.com/books/1454617281m/28934521.jpg</image_url>
-  <small_image_url>https://images.gr-assets.com/books/1454617281s/28934521.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/28934521-wine</link>
-  <num_pages/>
-  <format>ebook</format>
-  <edition_information/>
-  <publisher>Smashwords Edition</publisher>
-  <publication_day>19</publication_day>
-  <publication_year>2016</publication_year>
-  <publication_month>1</publication_month>
-  <average_rating>2.25</average_rating>
-  <ratings_count>4</ratings_count>
-  <description>Explore a Fascinating World of Wine and Food!&lt;br /&gt;&amp;amp;#9734&amp;amp;#9733&amp;amp;#9734 Read this book for FREE on Kindle Unlimited - Download Now! &amp;amp;#9734&amp;amp;#9733&amp;amp;#9734&lt;br /&gt;Do you want to know more about wine and fine dining? Would you like to be an expert on flavor, aroma, texture, and more?&lt;br /&gt;If so, Harry Lockwoodís Wine: Become a Wine Connoisseur ñ Learn The World of Wine Tasting, Pairing, and Selecting is the book for you! Inside, youíll discover how to choose the best wines for every occasion! Youíll find out all about the sweet, acid, and tannin aspects of wine, and how to pair these flavors with meat, poultry, and fish:&lt;br /&gt;Beef&lt;br /&gt;Chicken&lt;br /&gt;Salmon&lt;br /&gt;Lamb&lt;br /&gt;Turkey&lt;br /&gt;Quail&lt;br /&gt;Cod&lt;br /&gt;Pheasant&lt;br /&gt;Pork&lt;br /&gt;and many more!&lt;br /&gt;This book helps you appreciate wines in many waysófrom wine history to the science of wine flavor and aroma. Harry Lockwood helps you understand the huge variety of wines from across the worldóand how geography affects the character of a wine. Youíll find out about the many variety of grapes used for wine, their aromas and balance, and how to choose the best wines at every price point!&lt;br /&gt;Scroll to the top and select the "BUY" button for instant download.&lt;br /&gt;Youíll be so happy you did!</description>
-<authors>
-<author>
-<id>14951185</id>
-<name>firestonepublishing</name>
-<role/>
-<image_url nophoto="true">
-<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
-</image_url>
-<small_image_url nophoto="true">
-<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/14951185.firestonepublishing]]></link>
-<average_rating>2.25</average_rating>
-<ratings_count>4</ratings_count>
-<text_reviews_count>1</text_reviews_count>
-</author>
-</authors>
-  <published>2016</published>
-<work>  <id>49153662</id>
-  <uri>kca://work/amzn1.gr.work.v1.nN5NO4TjD2fdLC-cYHn9dQ</uri>
-</work></book>
-
-
-  <rating>2</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
-
-</shelves>
-
-  <recommended_for/>
-  <recommended_by/>
-  <started_at/>
-  <read_at/>
-  <date_added>Tue Jul 10 10:59:51 -0700 2018</date_added>
-  <date_updated>Tue Jul 10 11:00:20 -0700 2018</date_updated>
-  <read_count>1</read_count>
-  <body>
-  </body>
-
-  
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/2452265891]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/2452265891]]></link>
-    <owned>0</owned>
-</review>
-
-    <review>
-  <id>2391980416</id>
-    <book>
-  <id type="integer">34499</id>
-  <isbn>0061020672</isbn>
-  <isbn13>9780061020674</isbn13>
-  <text_reviews_count type="integer">1095</text_reviews_count>
-  <uri>kca://book/amzn1.gr.book.v1.q2vP1DD-cE6Tj9B6JxbSHg</uri>
-  <title>Sourcery (Discworld, #5; Rincewind #3)</title>
-  <title_without_series>Sourcery</title_without_series>
-  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/34499.Sourcery</link>
-  <num_pages>276</num_pages>
-  <format>Mass Market Paperback</format>
-  <edition_information/>
-  <publisher>Harper</publisher>
-  <publication_day/>
-  <publication_year>2008</publication_year>
-  <publication_month>4</publication_month>
-  <average_rating>3.89</average_rating>
-  <ratings_count>68058</ratings_count>
-  <description>When last seen, the singularly inept wizard Rincewind had fallen off the edge of the world. Now magically, he's turned up again, and this time he's brought the Luggage.&lt;br /&gt;&lt;br /&gt;But that's not all....&lt;br /&gt;&lt;br /&gt;Once upon a time, there was an eighth son of an eighth son who was, of course, a wizard. As if that wasn't complicated enough, said wizard then had seven sons. And then he had an eighth son -- a wizard squared (that's all the math, really). Who of course, was a source of magic -- a sourcerer.</description>
-<authors>
-<author>
-<id>1654</id>
-<name>Terry Pratchett</name>
-<role/>
-<image_url nophoto="false">
-<![CDATA[https://images.gr-assets.com/authors/1235562205p5/1654.jpg]]>
-</image_url>
-<small_image_url nophoto="false">
-<![CDATA[https://images.gr-assets.com/authors/1235562205p2/1654.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
-<average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
-</author>
-</authors>
-  <published>2008</published>
-<work>  <id>62360</id>
-  <uri>kca://work/amzn1.gr.work.v1.MmGM16MptkmBOnModLRkTA</uri>
-</work></book>
-
-
-  <rating>3</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
-
-</shelves>
-
-  <recommended_for/>
-  <recommended_by/>
-  <started_at>Mon May 14 22:01:42 -0700 2018</started_at>
-  <read_at>Fri Jun 01 10:04:13 -0700 2018</read_at>
-  <date_added>Mon May 14 22:01:41 -0700 2018</date_added>
-  <date_updated>Fri Jun 01 10:04:13 -0700 2018</date_updated>
-  <read_count>1</read_count>
-  <body>
-  </body>
-
-  
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/2391980416]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/2391980416]]></link>
-    <owned>0</owned>
-</review>
-
-    <review>
-  <id>1572389685</id>
-    <book>
-  <id type="integer">3985</id>
-  <isbn>0312282990</isbn>
-  <isbn13>9780312282998</isbn13>
-  <text_reviews_count type="integer">8858</text_reviews_count>
-  <uri>kca://book/amzn1.gr.book.v1.HsUbqhPvgHfhmxNDnuXHuw</uri>
-  <title>The Amazing Adventures of Kavalier &amp; Clay</title>
-  <title_without_series>The Amazing Adventures of Kavalier &amp; Clay</title_without_series>
-  <image_url>https://images.gr-assets.com/books/1503806495m/3985.jpg</image_url>
-  <small_image_url>https://images.gr-assets.com/books/1503806495s/3985.jpg</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/3985.The_Amazing_Adventures_of_Kavalier_Clay</link>
-  <num_pages>639</num_pages>
-  <format>Paperback</format>
-  <edition_information/>
-  <publisher>Picador USA</publisher>
-  <publication_day>25</publication_day>
-  <publication_year>2001</publication_year>
-  <publication_month>8</publication_month>
-  <average_rating>4.17</average_rating>
-  <ratings_count>169948</ratings_count>
-  <description>Joe Kavalier, a young Jewish artist who has also been trained in the art of Houdini-esque escape, has just smuggled himself out of Nazi-invaded Prague and landed in New York City. His Brooklyn cousin Sammy Clay is looking for a partner to create heroes, stories, and art for the latest novelty to hit America - the comic book. Drawing on their own fears and dreams, Kavalier and Clay create the Escapist, the Monitor, and Luna Moth, inspired by the beautiful Rosa Saks, who will become linked by powerful ties to both men. With exhilarating style and grace, Michael Chabon tells an unforgettable story about American romance and possibility.</description>
-<authors>
-<author>
-<id>2715</id>
-<name>Michael Chabon</name>
-<role/>
-<image_url nophoto="false">
-<![CDATA[https://images.gr-assets.com/authors/1515875672p5/2715.jpg]]>
-</image_url>
-<small_image_url nophoto="false">
-<![CDATA[https://images.gr-assets.com/authors/1515875672p2/2715.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/2715.Michael_Chabon]]></link>
-<average_rating>3.89</average_rating>
-<ratings_count>411858</ratings_count>
-<text_reviews_count>35859</text_reviews_count>
-</author>
-</authors>
-  <published>2001</published>
-<work>  <id>2693329</id>
-  <uri>kca://work/amzn1.gr.work.v1.IBORC_mbjTlih6F56eyiCQ</uri>
-</work></book>
-
-
-  <rating>5</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
-
-</shelves>
-
-  <recommended_for/>
-  <recommended_by/>
-  <started_at>Wed May 02 20:15:43 -0700 2018</started_at>
-  <read_at>Thu May 24 00:11:52 -0700 2018</read_at>
-  <date_added>Mon Mar 07 08:03:20 -0800 2016</date_added>
-  <date_updated>Thu May 24 00:11:52 -0700 2018</date_updated>
-  <read_count>1</read_count>
-  <body>
-  </body>
-
-  
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/1572389685]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/1572389685]]></link>
-    <owned>0</owned>
-</review>
-
-    <review>
-  <id>2389159048</id>
-    <book>
-  <id type="integer">386372</id>
-  <isbn>0061020680</isbn>
-  <isbn13>9780061020681</isbn13>
-  <text_reviews_count type="integer">2616</text_reviews_count>
-  <uri>kca://book/amzn1.gr.book.v1.ff_notg971s-I_WbGSz_dg</uri>
-  <title>Mort (Death, #1; Discworld, #4)</title>
-  <title_without_series>Mort</title_without_series>
-  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
-  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
-  <large_image_url/>
-  <link>https://www.goodreads.com/book/show/386372.Mort</link>
-  <num_pages>243</num_pages>
-  <format>Mass Market Paperback</format>
-  <edition_information/>
-  <publisher>Harpertorch</publisher>
-  <publication_day>6</publication_day>
-  <publication_year>2001</publication_year>
-  <publication_month>2</publication_month>
-  <average_rating>4.23</average_rating>
-  <ratings_count>165109</ratings_count>
-  <description>Terry Pratchett's profoundly irreverent novels are consistent number one bestseller in England, where they have catapulted him into the highest echelons of parody next to Mark Twain, Kurt Vonnegut, Douglas Adams, and Carl Hiaasen.&lt;br /&gt;&lt;br /&gt;In this Discworld installment, Death comes to Mort with an offer he can't refuse -- especially since being, well, dead isn't compulsory. As Death's apprentice, he'll have free board and lodging, use of the company horse, and he won't need time off for family funerals. The position is everything Mort thought he'd ever wanted, until he discovers that this perfect job can be a killer on his love life.</description>
-<authors>
-<author>
-<id>1654</id>
-<name>Terry Pratchett</name>
-<role/>
-<image_url nophoto="false">
-<![CDATA[https://images.gr-assets.com/authors/1235562205p5/1654.jpg]]>
-</image_url>
-<small_image_url nophoto="false">
-<![CDATA[https://images.gr-assets.com/authors/1235562205p2/1654.jpg]]>
-</small_image_url>
-<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
-<average_rating>4.15</average_rating>
-<ratings_count>3637980</ratings_count>
-<text_reviews_count>121895</text_reviews_count>
-</author>
-</authors>
-  <published>2001</published>
-<work>  <id>1857065</id>
-  <uri>kca://work/amzn1.gr.work.v1.ELZOeltTOV4fmZp8g-qPPg</uri>
-</work></book>
-
-
-  <rating>5</rating>
-  <votes>0</votes>
-  <spoiler_flag>false</spoiler_flag>
-  <spoilers_state>none</spoilers_state>
-  
-
-<shelves>
-    <shelf name="read" exclusive="true" id="15689188" review_shelf_id=""/>
-
-</shelves>
-
-  <recommended_for/>
-  <recommended_by/>
-  <started_at>Fri May 11 23:31:04 -0700 2018</started_at>
-  <read_at>Mon May 14 22:00:07 -0700 2018</read_at>
-  <date_added>Fri May 11 23:31:03 -0700 2018</date_added>
-  <date_updated>Mon May 14 22:00:18 -0700 2018</date_updated>
-  <read_count>1</read_count>
-  <body>
-  </body>
-
-  
-
-  <comments_count>0</comments_count>
-    <url><![CDATA[https://www.goodreads.com/review/show/2389159048]]></url>
-  <link><![CDATA[https://www.goodreads.com/review/show/2389159048]]></link>
     <owned>0</owned>
 </review>
 

@@ -44,11 +44,14 @@ class BookData extends Component {
                         title = title.concat('...')
                     }
     
-                    books.push(<Book imgSrc={book.book.image_url['#text']} altTxt={book.book.title['#text']} 
+                    books.push(<Book
+                        imgSrc={book.book.image_url['#text']}
+                        altTxt={book.book.title['#text']} 
                         title={title}
                         author={book.book.authors.author.name['#text']}
                         dateRead={dateRead}
                         key={book.book.isbn['#text']}
+                        link={book.book.link['#text']}
                     />)
                 })
             }
