@@ -1,7 +1,5 @@
 ## To-Do
-- Export to new page
 - Parameterize username
-- Add recommendation functionality
 - Send e-mails to me with unidentified info
 - get all books instead of last 200
 - Provide break-down by author hometown

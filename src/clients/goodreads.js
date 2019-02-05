@@ -1,12 +1,23 @@
 import axios from 'axios';
-import books from '../assets/goodreadsBooks.xml';
+import booksRead from '../assets/goodreadsBooksRead.xml';
+import booksToRead from '../assets/goodreadsBooksToRead.xml';
 import bookData from '../assets/bookData.json';
 
-const apiKey = '05VzMTV0rAKoDt0jXZohg';
+const apiKey = 'iR6xINQZ1fGRlOFAlC2PPQ';
 const myUserId = '4901618';
 
 export function getLast50StoredBooks() {
-    return(fetch(books)
+    return(fetch(booksRead)
+    .then(response => response.text())
+    .then(text => {
+        const parser = new DOMParser();
+        const xml = parser.parseFromString(text, 'text/xml');
+        return xmlToJson(xml).GoodreadsResponse.reviews.review;
+    }));
+}
+
+export function getLast200StoredToReadBooks() {
+    return(fetch(booksToRead)
     .then(response => response.text())
     .then(text => {
         const parser = new DOMParser();
@@ -19,8 +30,24 @@ export function getLatestBookData() {
     return bookData;
 }
 
-export function getLast200Books() {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + myUserId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=50page=1&sort=date_read&order=d';
+export function getLast50Books() {
+    const url = 'https://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + myUserId + '.xml?key=' + apiKey + '&v=2&shelf=read&per_page=50page=1&sort=date_read&order=d';
+    return (
+        axios.get(url)
+        .then(data => 
+            {
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(data.data, 'text/xml');
+                //TODO: Export to xml file
+                console.log(xml);
+                return xmlToJson(xml).GoodreadsResponse.reviews.review;
+            })
+        .catch(err=>console.log(err))
+    );
+};
+
+export function getToReadBooks() {
+    const url = 'https://cors-anywhere.herokuapp.com/https://www.goodreads.com/review/list/' + myUserId + '.xml?key=' + apiKey + '&v=2&shelf=to-read&per_page=200page=1&sort=date_added&order=d';
     return (
         axios.get(url)
         .then(data => 
@@ -36,11 +63,12 @@ export function getLast200Books() {
 };
 
 export function getAuthorInfo(authorId) {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/author/show.xml?key=' + apiKey + '&id=' + authorId;
+    const url = 'https://cors-anywhere.herokuapp.com/https://www.goodreads.com/author/show.xml?key=' + apiKey + '&id=' + authorId;
     return (
         axios.get(url)
         .then(data => 
             {
+                console.log(data);
                 const parser = new DOMParser();
                 const xml = parser.parseFromString(data.data, 'text/xml');
                 return xmlToJson(xml).GoodreadsResponse.author;
@@ -50,11 +78,12 @@ export function getAuthorInfo(authorId) {
 };
 
 export function getBookInfo(bookId) {
-    const url = 'http://cors-anywhere.herokuapp.com/https://www.goodreads.com/book/show?key=' + apiKey + '&id=' + bookId;
+    const url = 'https://cors-anywhere.herokuapp.com/https://www.goodreads.com/book/show?key=' + apiKey + '&id=' + bookId;
     return (
         axios.get(url)
         .then(data => 
             {
+                console.log(data);
                 const parser = new DOMParser();
                 const xml = parser.parseFromString(data.data, 'text/xml');
                 return xmlToJson(xml).GoodreadsResponse.book;

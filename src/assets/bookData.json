@@ -16,5 +16,63 @@
     "genre": [
         {"title": "Fiction", "value": 41, "color": "#E38627"},
         {"title": "Non-Fiction", "value": 12, "color": "#C13C37"}
+    ],
+    "recommendations": [
+        {
+            "altTxt": "The Pisces", 
+            "author": "Melissa Broder", 
+            "imgSrc": "https://images.gr-assets.com/books/1500926737m/32871394.jpg",
+            "link": "https://www.goodreads.com/book/show/32871394-the-pisces",
+            "title": "The Pisces"
+        },
+        {
+            "altTxt": "The Music Shop",
+            "author": "Rachel Joyce",
+            "imgSrc": "https://images.gr-assets.com/books/1503590162m/26854212.jpg",
+            "link": "https://www.goodreads.com/book/show/26854212-the-music-shop",
+            "title": "The Music Shop"
+        },
+        {
+            "altTxt": "Washington Black",
+            "author": "Esi Edugyan",
+            "imgSrc": "https://images.gr-assets.com/books/1524830488m/38140077.jpg",
+            "link": "https://www.goodreads.com/book/show/38140077-washington-black",
+            "title": "Washington Black"
+        },
+        {
+            "altTxt": "Amal Unbound",
+            "author": "Aisha Saeed",
+            "imgSrc": "https://images.gr-assets.com/books/1509102472m/36086513.jpg",
+            "link": "https://www.goodreads.com/book/show/36086513-amal-unbound",
+            "title": "Amal Unbound"
+        },
+        {
+            "altTxt": "Indiana",
+            "author": "George Sand",
+            "imgSrc": "https://images.gr-assets.com/books/1368335323m/104260.jpg",
+            "link": "https://www.goodreads.com/book/show/104260.Indiana",
+            "title": "Indiana"
+        },
+        {
+            "altTxt": "Vita Nostra (Метаморфозы, #1)",
+            "author": "Marina Dyachenko",
+            "imgSrc": "https://images.gr-assets.com/books/1527796306m/3972188.jpg",
+            "link": "https://www.goodreads.com/book/show/3972188-vita-nostra",
+            "title": "Vita Nostra (Метаморфозы, #1)"
+        },
+        {
+            "altTxt": "Doctor Faustus",
+            "author": "Thomas Mann",
+            "imgSrc": "https://images.gr-assets.com/books/1403189005m/34440.jpg",
+            "link": "https://www.goodreads.com/book/show/34440.Doctor_Faustus",
+            "title": "Doctor Faustus"
+        },
+        {
+            "altTxt": "Children of Blood and Bone (Legacy of Orïsha, #1)",
+            "author": "Tomi Adeyemi",
+            "imgSrc": "https://images.gr-assets.com/books/1516127989m/34728667.jpg",
+            "link": "https://www.goodreads.com/book/show/34728667-children-of-blood-and-bone",
+            "title": "Children of Blood and Bone (Legacy of Or..."
+        }
     ]
 }]

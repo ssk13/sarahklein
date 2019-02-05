@@ -25,7 +25,8 @@ export function mapHometown(input) {
         case 'Armenia':
             return 'Armenia'; 
 
-        case 'Australia':    
+        case 'Australia':
+        case 'Queensland':    
         case 'Sydney':
             return 'Australia';
 
@@ -112,6 +113,7 @@ export function mapHometown(input) {
         case 'China':
             return 'China'; 
 
+        case 'Bogotá':
         case 'Colombia':
             return 'Colombia';
 
@@ -198,8 +200,10 @@ export function mapHometown(input) {
         case 'Georgia':
             return 'Georgia';
 
+        case 'Bonn':
         case 'Dresden':
         case 'Germany':
+        case 'Lübeck':
         case 'North Rhine-Westphalia':
             return 'Germany';
 
@@ -235,6 +239,7 @@ export function mapHometown(input) {
 
         case 'Bihar':
         case 'India':
+        case 'Madhya Pradesh':
         case 'Meghalaya':
             return 'India';
 
@@ -250,9 +255,11 @@ export function mapHometown(input) {
         case 'Belfast':
         case 'Dublin':
         case 'Ireland':
+        case 'Strabane':
             return 'Ireland';
 
         case 'Israel':
+        case 'Kiryat Ata':
             return 'Israel';
 
         case 'Italy':
@@ -264,6 +271,8 @@ export function mapHometown(input) {
 
         case 'Japan':
         case 'Kyoto':
+        case 'Nagasaki':
+        case 'Tokyo':
             return 'Japan';  
 
         case 'Jordan':
@@ -399,7 +408,9 @@ export function mapHometown(input) {
 
         case 'Oman':
             return 'Oman';
-
+        
+        case 'Khyber Pakhtunkhwa':
+        case 'Lahore':
         case 'Pakistan':
             return 'Pakistan';
 
@@ -435,6 +446,7 @@ export function mapHometown(input) {
 
         case 'Lebedian':
         case 'Moscow':
+        case 'Petrovichi':
         case 'Russia':
         case 'St. Petersburg':
             return 'Russia';
@@ -506,6 +518,7 @@ export function mapHometown(input) {
         case 'Spain':
             return 'Spain';
                         
+        case 'Colombo':
         case 'Sri Lanka':
             return 'Sri Lanka';
 
@@ -571,37 +584,62 @@ export function mapHometown(input) {
             return 'United Arab Emirates';
 
         case 'England':
+        case 'Leicester':
+        case 'London':
         case 'Northampton':
         case 'Reading':
+        case 'Yorkshire':
             return 'United Kingdom';
 
         case 'Arkansas':
+        case 'Austin':
+        case 'Atlanta':
+        case 'Boston':
+        case 'CA':
         case 'CA.':
         case 'California':
+        case 'Chicago':
         case 'Colorado':
         case 'Connecticut':
         case 'D.C.':
+        case 'Dayton':
         case 'District of Columbia':
+        case 'Hawaii':
+        case 'IL':
         case 'Illinois':
         case 'Indiana':
+        case 'Indianapolis':
+        case 'Iowa':
         case 'Kentucky':
+        case 'Kingston':
         case 'MA':
         case 'Maine':
+        case 'Manhattan':
         case 'Massachusetts':
+        case 'MD':
+        case 'Michigan':
         case 'Minnesota':
         case 'Mississippi':
         case 'Missouri':
+        case 'Montana':
+        case 'NC':
+        case 'Nebraska':
         case 'New Jersey':
         case 'New York':
+        case 'New York City':
+        case 'NY':
         case 'Ohio':
         case 'Oklahoma':
         case 'Oregon':
         case 'PA':
         case 'Pennsylvania':
+        case 'Seattle':
         case 'Southern California':
         case 'Southport':
         case 'Tennessee':
+        case 'Texas':
         case 'United States':
+        case 'Utah':
         case 'WA':
         case 'Washington':
         case 'Washington D.C.':

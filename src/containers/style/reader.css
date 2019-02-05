@@ -7,6 +7,10 @@ table {
     overflow:auto;
 }
 
-.booksContainer {
+.booksContainer.large {
     width:10000px;
+}
+
+.booksContainer.small {
+    width:1600px;
 }

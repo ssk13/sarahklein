@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { getLast50StoredBooks, getLatestBookData } from '../clients/goodreads';
 import Book from '../components/book';
+import BookRecommendations from './bookRecommendations';
 import FictionData from './fictionData';
 import GenderData from './genderData';
 import HometownData from './hometownData';
@@ -16,7 +17,8 @@ class BookData extends Component {
             genderData: [],
             hometownData: [],
             hometownColors: [],
-            fictionData: []
+            fictionData: [],
+            recommendedBooks: []
         }
     }
 
@@ -27,7 +29,8 @@ class BookData extends Component {
         this.setState({
             genderData: bookInfo[0].gender,
             hometownData: bookInfo[0].hometowns,
-            fictionData: bookInfo[0].genre
+            fictionData: bookInfo[0].genre,
+            recommendedBooks: bookInfo[0].recommendations
         });
         
         getLast50StoredBooks().then(data => {
@@ -70,7 +73,7 @@ class BookData extends Component {
                     <tbody>
                         <tr>
                             <td className={'tableContainer'}>
-                                <div className={'booksContainer'}>
+                                <div className={'booksContainer large'}>
                                     {this.state.bookList}
                                 </div>
                             </td>
@@ -83,6 +86,8 @@ class BookData extends Component {
                 <FictionData fictionData={this.state.fictionData} />
 
                 <HometownData hometownData={this.state.hometownData} />
+
+                <BookRecommendations bookData={this.state.recommendedBooks} />
 
             </div>
 
